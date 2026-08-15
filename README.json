@@ -527,10 +527,10 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-14T10:45:52Z",
+            "last_commit": "2026-08-15T10:43:28Z",
             "owner": "Sitecore",
             "repo": "docker-images",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -915,10 +915,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:45:00Z",
+            "last_commit": "2026-08-14T19:23:33Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -932,7 +932,7 @@
             "last_commit": "2026-08-13T13:57:05Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
-            "stars": 28
+            "stars": 29
           }
         }
       ],
@@ -2997,10 +2997,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:45:00Z",
+            "last_commit": "2026-08-14T19:23:33Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:19:49.525Z",
+    "last_updated": "2026-08-15T10:49:04.593Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
