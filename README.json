@@ -527,7 +527,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-15T10:43:28Z",
+            "last_commit": "2026-08-16T10:47:18Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -1180,7 +1180,7 @@
             "last_commit": "2026-01-15T08:33:57Z",
             "owner": "Sitecore",
             "repo": "Helix.Examples",
-            "stars": 74
+            "stars": 73
           }
         },
         {
@@ -1960,7 +1960,7 @@
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275
+            "stars": 274
           }
         },
         {
@@ -2008,7 +2008,7 @@
             "last_commit": "2026-01-15T08:33:57Z",
             "owner": "Sitecore",
             "repo": "Helix.Examples",
-            "stars": 74
+            "stars": 73
           }
         },
         {
@@ -2986,7 +2986,7 @@
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275
+            "stars": 274
           }
         },
         {
@@ -3848,7 +3848,7 @@
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275
+            "stars": 274
           }
         },
         {
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:49:04.593Z",
+    "last_updated": "2026-08-16T10:49:55.588Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
