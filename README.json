@@ -516,7 +516,7 @@
             "last_commit": "2025-06-08T13:08:04Z",
             "owner": "StefanScherer",
             "repo": "windows-docker-machine",
-            "stars": 1156
+            "stars": 1158
           }
         },
         {
@@ -527,7 +527,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-17T10:41:13Z",
+            "last_commit": "2026-08-18T10:42:19Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -915,7 +915,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:49:39Z",
+            "last_commit": "2026-08-18T09:29:58Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -2997,7 +2997,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:49:39Z",
+            "last_commit": "2026-08-18T09:29:58Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -3129,7 +3129,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-02T21:04:15Z",
+            "last_commit": "2026-08-17T18:50:24Z",
             "owner": "michaellwest",
             "repo": "certz",
             "stars": 1
@@ -3954,7 +3954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:57:15.624Z",
+    "last_updated": "2026-08-18T10:56:05.316Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
