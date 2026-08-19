@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59423741,
             "language": "C#",
             "last_commit": "2016-11-14T13:18:46Z",
             "owner": "islaytitans",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97429556,
             "language": "JavaScript",
             "last_commit": "2020-08-12T16:56:57Z",
             "owner": "coreyasmith",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102771228,
             "language": "C#",
             "last_commit": "2017-09-07T18:27:04Z",
             "owner": "martinrayenglish",
@@ -49,7 +52,7 @@
       "title": "Analytics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67299745,
             "language": "C#",
             "last_commit": "2017-04-07T16:34:39Z",
             "owner": "cardinal252",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124137608,
             "language": "JavaScript",
             "last_commit": "2022-12-08T18:35:26Z",
             "owner": "zkniebel",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79722415,
             "language": "C#",
             "last_commit": "2017-01-22T18:17:57Z",
             "owner": "martinrayenglish",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74884368,
             "language": "C#",
             "last_commit": "2022-06-15T09:02:19Z",
             "owner": "marek-musielak",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115156629,
             "language": "PowerShell",
             "last_commit": "2018-03-20T04:13:14Z",
             "owner": "richardszalay",
@@ -125,7 +133,7 @@
       "title": "Audit and performance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72458223,
             "language": "PowerShell",
             "last_commit": "2026-08-05T11:47:14Z",
             "owner": "Sitecore",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161401956,
             "language": "C#",
             "last_commit": "2022-12-09T06:27:39Z",
             "owner": "Azure-Samples",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 35529322,
             "language": "PLpgSQL",
             "last_commit": "2017-08-04T23:53:30Z",
             "owner": "ob1dev",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76309383,
             "language": "PowerShell",
             "last_commit": "2020-12-17T23:48:42Z",
             "owner": "robhabraken",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231139932,
             "language": "PowerShell",
             "last_commit": "2020-01-03T19:11:54Z",
             "owner": "JeffDarchuk",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50140031,
             "language": "C#",
             "last_commit": "2016-04-21T22:33:51Z",
             "owner": "jammykam",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145332574,
             "language": "PowerShell",
             "last_commit": "2020-08-12T16:47:17Z",
             "owner": "coreyasmith",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53537096,
             "language": "JavaScript",
             "last_commit": "2016-03-11T21:17:22Z",
             "owner": "BasLijten",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161472621,
             "language": "C#",
             "last_commit": "2018-12-13T11:33:54Z",
             "owner": "BasLijten",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67823280,
             "language": "C#",
             "last_commit": "2016-09-22T00:35:54Z",
             "owner": "ivansharamok",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78381280,
             "language": "C#",
             "last_commit": "2017-03-17T17:39:07Z",
             "owner": "smithc",
@@ -285,7 +304,7 @@
       "title": "Azure"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403604140,
             "language": "ASP.NET",
             "last_commit": "2022-10-12T20:41:58Z",
             "owner": "jbluemink",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59414249,
             "language": "C#",
             "last_commit": "2016-05-24T07:01:30Z",
             "owner": "ParTech",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178446603,
             "language": "C#",
             "last_commit": "2019-03-29T19:31:51Z",
             "owner": "zkniebel",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 410819770,
             "language": "C#",
             "last_commit": "2021-09-27T09:31:30Z",
             "owner": "jbluemink",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221399123,
             "language": null,
             "last_commit": "2019-11-18T06:55:12Z",
             "owner": "KayeeNL",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74902209,
             "language": "C#",
             "last_commit": "2016-11-27T17:18:06Z",
             "owner": "marek-musielak",
@@ -378,24 +403,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46018437,
             "language": "C#",
             "last_commit": "2015-11-28T12:21:33Z",
             "owner": "TwentyGotoTen",
             "repo": "ManualHtmlCacheClearer",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CacheCounters",
-          "description": "Report Sitecore cache size information into Windows performance counters.",
-          "children": []
         }
       ],
       "title": "Cache"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -404,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32155880,
             "language": "C#",
             "last_commit": "2026-01-15T08:37:09Z",
             "owner": "Sitecore",
@@ -418,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122230731,
             "language": "C#",
             "last_commit": "2022-12-08T00:58:04Z",
             "owner": "Sitecore",
@@ -432,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105249281,
             "language": "C#",
             "last_commit": "2019-10-18T18:09:40Z",
             "owner": "Sitecore",
@@ -446,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139246753,
             "language": "PowerShell",
             "last_commit": "2018-07-01T11:01:12Z",
             "owner": "richardszalay",
@@ -460,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124873813,
             "language": "Vue",
             "last_commit": "2018-03-13T10:27:36Z",
             "owner": "richardszalay",
@@ -474,36 +499,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237806255,
             "language": "C#",
             "last_commit": "2020-02-03T17:11:16Z",
             "owner": "dsolovay",
             "repo": "ShortConfirmationCodes",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Commerce Engine Fedex plugin",
-          "description": "Allows the user to integrate Fedex as a Fulfillment Method for shipping.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Commerce Engine USPS plugin",
-          "description": "Allows the user to integrate USPS as a Fulfillment Method for shipping.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Commerce Engine UPS Address Validation plugin",
-          "description": "Allows validating shipping address or billing address to make product delivery a good experience.",
-          "children": []
         }
       ],
       "title": "Commerce"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -512,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78009291,
             "language": "PowerShell",
             "last_commit": "2025-06-08T13:08:04Z",
             "owner": "StefanScherer",
@@ -526,8 +535,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-18T10:42:19Z",
+            "last_commit": "2026-08-19T10:42:41Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -540,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106578380,
             "language": "C#",
             "last_commit": "2026-06-24T16:39:00Z",
             "owner": "Sitecore",
@@ -554,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125524502,
             "language": "PowerShell",
             "last_commit": "2025-06-25T12:57:38Z",
             "owner": "Sitecore",
@@ -568,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 235870939,
             "language": "CSS",
             "last_commit": "2022-12-04T22:34:44Z",
             "owner": "Sitecore",
@@ -582,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317701534,
             "language": "PowerShell",
             "last_commit": "2026-08-05T06:08:39Z",
             "owner": "Sitecore",
@@ -596,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322439743,
             "language": "PowerShell",
             "last_commit": "2026-06-10T15:25:58Z",
             "owner": "Sitecore",
@@ -610,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115482642,
             "language": "Ruby",
             "last_commit": "2020-04-10T22:32:05Z",
             "owner": "asmagin",
@@ -624,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335135874,
             "language": "PowerShell",
             "last_commit": "2025-01-21T14:07:02Z",
             "owner": "konabos",
@@ -638,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301314717,
             "language": "PowerShell",
             "last_commit": "2020-10-27T15:48:08Z",
             "owner": "bplasmeijer",
@@ -652,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124076011,
             "language": "PowerShell",
             "last_commit": "2020-07-15T14:31:44Z",
             "owner": "LaubPlusCo",
@@ -666,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311926215,
             "language": "PowerShell",
             "last_commit": "2024-10-17T18:27:12Z",
             "owner": "robhabraken",
@@ -680,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379247015,
             "language": "PowerShell",
             "last_commit": "2022-12-19T15:19:19Z",
             "owner": "KayeeNL",
@@ -694,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379247015,
             "language": "PowerShell",
             "last_commit": "2022-12-19T15:19:19Z",
             "owner": "KayeeNL",
@@ -708,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296972420,
             "language": "Shell",
             "last_commit": "2021-07-19T00:40:05Z",
             "owner": "georgechang",
@@ -722,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263164004,
             "language": "PowerShell",
             "last_commit": "2026-02-26T03:41:24Z",
             "owner": "michaellwest",
@@ -736,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343935206,
             "language": null,
             "last_commit": "2021-03-03T20:29:15Z",
             "owner": "nickwesselman",
@@ -747,7 +772,7 @@
       "title": "Containers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -756,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468449443,
             "language": "C#",
             "last_commit": "2026-01-14T13:15:27Z",
             "owner": "Sitecore",
@@ -770,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344314076,
             "language": "TypeScript",
             "last_commit": "2021-03-17T01:39:54Z",
             "owner": "konabos",
@@ -784,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358984450,
             "language": "TypeScript",
             "last_commit": "2026-07-22T14:22:54Z",
             "owner": "robhabraken",
@@ -798,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 323161847,
             "language": null,
             "last_commit": "2026-03-19T16:45:30Z",
             "owner": "Sitecore",
@@ -812,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237844443,
             "language": "C#",
             "last_commit": "2020-03-05T06:05:43Z",
             "owner": "vasiliyfomichev",
@@ -826,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238959170,
             "language": "C#",
             "last_commit": "2022-12-08T02:13:58Z",
             "owner": "josedbaez",
@@ -840,24 +871,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223445281,
             "language": "C#",
             "last_commit": "2022-12-08T09:21:46Z",
             "owner": "josedbaez",
             "repo": "Sitecore.ContentHub.Twitter",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "schguild",
-          "description": "Provides tools and sample code to help you learn and work with Sitecore Content Hub.",
-          "children": []
         }
       ],
       "title": "Content Hub"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -866,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580393021,
             "language": "JavaScript",
             "last_commit": "2025-12-15T07:56:34Z",
             "owner": "Sitecore",
@@ -880,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579024723,
             "language": "Vue",
             "last_commit": "2023-09-25T14:47:01Z",
             "owner": "Sitecore",
@@ -894,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579036622,
             "language": "TypeScript",
             "last_commit": "2023-11-23T11:05:35Z",
             "owner": "Sitecore",
@@ -905,7 +934,7 @@
       "title": "Content Hub One"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -914,8 +943,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:29:58Z",
+            "last_commit": "2026-08-19T10:40:26Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -928,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 833872387,
             "language": "PowerShell",
             "last_commit": "2026-08-13T13:57:05Z",
             "owner": "Sitecore",
@@ -939,7 +970,7 @@
       "title": "Content SDK"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -948,6 +979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208137164,
             "language": "PowerShell",
             "last_commit": "2021-04-11T15:40:17Z",
             "owner": "jermdavis",
@@ -962,6 +994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211378644,
             "language": "C#",
             "last_commit": "2022-12-08T06:14:39Z",
             "owner": "jermdavis",
@@ -976,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291350460,
             "language": "PowerShell",
             "last_commit": "2024-01-23T11:01:27Z",
             "owner": "jermdavis",
@@ -990,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181042492,
             "language": "C#",
             "last_commit": "2021-11-08T06:06:38Z",
             "owner": "Antonytm",
@@ -1004,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196523292,
             "language": "C#",
             "last_commit": "2022-12-08T07:39:14Z",
             "owner": "richardszalay",
@@ -1018,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44838904,
             "language": "C#",
             "last_commit": "2015-10-23T21:19:45Z",
             "owner": "martinrayenglish",
@@ -1032,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194933708,
             "language": "C#",
             "last_commit": "2022-06-22T21:14:29Z",
             "owner": "josedbaez",
@@ -1046,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421646386,
             "language": null,
             "last_commit": "2021-10-27T02:14:57Z",
             "owner": "konabos",
@@ -1060,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177570632,
             "language": null,
             "last_commit": "2019-03-25T11:15:25Z",
             "owner": "LaubPlusCo",
@@ -1071,7 +1111,7 @@
       "title": "Content Search"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1080,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8206632,
             "language": "C#",
             "last_commit": "2022-12-08T02:53:06Z",
             "owner": "markstiles",
@@ -1094,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45702535,
             "language": "C#",
             "last_commit": "2019-02-04T13:19:00Z",
             "owner": "dresser",
@@ -1105,7 +1147,7 @@
       "title": "Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1114,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274391150,
             "language": "C#",
             "last_commit": "2021-06-28T12:17:46Z",
             "owner": "KayeeNL",
@@ -1128,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64432069,
             "language": "HTML",
             "last_commit": "2018-05-03T19:31:43Z",
             "owner": "Sitecore",
@@ -1139,7 +1183,7 @@
       "title": "Data Exchange Framework"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1148,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41481335,
             "language": "CSS",
             "last_commit": "2019-12-06T14:35:24Z",
             "owner": "Sitecore",
@@ -1162,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106578380,
             "language": "C#",
             "last_commit": "2026-06-24T16:39:00Z",
             "owner": "Sitecore",
@@ -1176,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170882752,
             "language": "CSS",
             "last_commit": "2026-01-15T08:33:57Z",
             "owner": "Sitecore",
@@ -1190,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 235870939,
             "language": "CSS",
             "last_commit": "2022-12-04T22:34:44Z",
             "owner": "Sitecore",
@@ -1204,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122230572,
             "language": "PowerShell",
             "last_commit": "2020-05-19T15:52:06Z",
             "owner": "Sitecore",
@@ -1218,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388399985,
             "language": "TypeScript",
             "last_commit": "2026-08-13T14:15:12Z",
             "owner": "Sitecore",
@@ -1232,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388399985,
             "language": "TypeScript",
             "last_commit": "2026-08-13T14:15:12Z",
             "owner": "Sitecore",
@@ -1246,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355469007,
             "language": "TypeScript",
             "last_commit": "2026-05-12T17:03:44Z",
             "owner": "Sitecore",
@@ -1260,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122230731,
             "language": "C#",
             "last_commit": "2022-12-08T00:58:04Z",
             "owner": "Sitecore",
@@ -1274,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520938351,
             "language": "TypeScript",
             "last_commit": "2025-12-18T14:34:42Z",
             "owner": "Sitecore",
@@ -1288,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57083960,
             "language": "CSS",
             "last_commit": "2018-12-10T14:50:53Z",
             "owner": "Sitecore",
@@ -1302,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217117194,
             "language": "TypeScript",
             "last_commit": "2026-02-25T19:33:58Z",
             "owner": "steviemcg",
@@ -1316,30 +1372,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754255630,
             "language": "TypeScript",
             "last_commit": "2025-02-25T13:51:21Z",
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.XMCloud.Verticals",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore.Demo.Headless",
-          "description": "Sitecore JSS PWA demo assets and future \"Sitecore Headless\" related demo assets.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore.HabitatHome.Omni",
-          "description": "Shares Sitecore JSS PWA demo assets and future \"Sitecore Omni\" related demo assets.",
-          "children": []
         }
       ],
       "title": "Demo"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1348,6 +1393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132652545,
             "language": "PowerShell",
             "last_commit": "2021-11-26T13:43:42Z",
             "owner": "asmagin",
@@ -1362,24 +1408,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65161822,
             "language": "C#",
             "last_commit": "2020-06-16T12:58:22Z",
             "owner": "jst-cyr",
             "repo": "NonlinearPostDeploySteps",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Devops with AppVeyor",
-          "description": "Sample solution which shows how to develop an open-source Sitecore module and hook it up with AppVeyor, a Continuous Delivery solution hosted in the cloud.",
-          "children": []
         }
       ],
       "title": "Deployment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1388,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41890007,
             "language": "C#",
             "last_commit": "2017-11-06T00:18:48Z",
             "owner": "AlenPelin",
@@ -1402,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6267676,
             "language": "C#",
             "last_commit": "2021-09-28T16:19:47Z",
             "owner": "Velir",
@@ -1416,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76992302,
             "language": "CSS",
             "last_commit": "2017-03-01T22:12:15Z",
             "owner": "jammykam",
@@ -1430,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9080131,
             "language": "C#",
             "last_commit": "2014-03-11T18:01:55Z",
             "owner": "ParTech",
@@ -1444,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138907432,
             "language": "JavaScript",
             "last_commit": "2025-10-10T17:00:23Z",
             "owner": "EmanueleCiriachi",
@@ -1458,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77034905,
             "language": "C#",
             "last_commit": "2019-04-30T12:16:09Z",
             "owner": "merkle-open",
@@ -1472,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11746490,
             "language": "C#",
             "last_commit": "2014-03-11T18:02:28Z",
             "owner": "ParTech",
@@ -1486,6 +1534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22005268,
             "language": "C#",
             "last_commit": "2014-07-19T08:25:14Z",
             "owner": "TwentyGotoTen",
@@ -1500,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34615633,
             "language": "ASP",
             "last_commit": "2015-04-28T19:38:39Z",
             "owner": "ianjohngraham",
@@ -1514,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9299215,
             "language": "C#",
             "last_commit": "2013-04-08T15:09:22Z",
             "owner": "markvanaalst",
@@ -1528,6 +1579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16594341,
             "language": "C#",
             "last_commit": "2014-02-06T21:55:19Z",
             "owner": "ParTech",
@@ -1542,6 +1594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44194421,
             "language": "C#",
             "last_commit": "2016-08-15T14:52:45Z",
             "owner": "MartinMiles",
@@ -1556,6 +1609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6699397,
             "language": "C#",
             "last_commit": "2014-11-05T18:49:06Z",
             "owner": "Velir",
@@ -1567,7 +1621,7 @@
       "title": "Extending Content Editor"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1576,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9102374,
             "language": "C#",
             "last_commit": "2014-10-16T15:34:15Z",
             "owner": "ParTech",
@@ -1590,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43303805,
             "language": "C#",
             "last_commit": "2015-09-29T10:10:02Z",
             "owner": "Wesley-Lomax",
@@ -1604,6 +1660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17277590,
             "language": "JavaScript",
             "last_commit": "2014-04-14T14:25:32Z",
             "owner": "pveller",
@@ -1618,6 +1675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19089115,
             "language": "C#",
             "last_commit": "2014-04-23T23:59:58Z",
             "owner": "jammykam",
@@ -1632,6 +1690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175877673,
             "language": "C#",
             "last_commit": "2019-04-29T12:23:55Z",
             "owner": "MartinMiles",
@@ -1646,6 +1705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39124897,
             "language": "C#",
             "last_commit": "2015-07-15T10:38:28Z",
             "owner": "AlexanderDavyduk",
@@ -1660,6 +1720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26780501,
             "language": "C#",
             "last_commit": "2013-03-19T15:01:58Z",
             "owner": "josedbaez",
@@ -1674,6 +1735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6693942,
             "language": "C#",
             "last_commit": "2012-11-14T20:03:40Z",
             "owner": "ivansharamok",
@@ -1688,6 +1750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6938789,
             "language": null,
             "last_commit": "2012-11-30T14:58:25Z",
             "owner": "markvanaalst",
@@ -1699,7 +1762,7 @@
       "title": "Fields"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1708,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131502223,
             "language": "C#",
             "last_commit": "2024-08-13T12:34:02Z",
             "owner": "bartverdonck",
@@ -1722,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170426124,
             "language": "C#",
             "last_commit": "2023-03-04T01:08:02Z",
             "owner": "afaniuolo",
@@ -1736,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217484793,
             "language": "C#",
             "last_commit": "2022-12-08T02:11:10Z",
             "owner": "jbluemink",
@@ -1750,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332805837,
             "language": "C#",
             "last_commit": "2021-01-25T16:22:24Z",
             "owner": "KayeeNL",
@@ -1761,7 +1828,7 @@
       "title": "Forms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1770,6 +1837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248393576,
             "language": "JavaScript",
             "last_commit": "2025-12-13T00:55:50Z",
             "owner": "uniformdev",
@@ -1784,6 +1852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344314076,
             "language": "TypeScript",
             "last_commit": "2021-03-17T01:39:54Z",
             "owner": "konabos",
@@ -1795,7 +1864,7 @@
       "title": "JAMstack"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1804,6 +1873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101921279,
             "language": "JavaScript",
             "last_commit": "2018-06-28T17:05:45Z",
             "owner": "kmazzoni",
@@ -1818,6 +1888,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145457568,
             "language": "JavaScript",
             "last_commit": "2019-04-24T05:04:23Z",
             "owner": "altola",
@@ -1832,6 +1903,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 376889519,
             "language": null,
             "last_commit": "2026-06-09T00:35:08Z",
             "owner": "Sitecore",
@@ -1846,6 +1918,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702278087,
             "language": "TypeScript",
             "last_commit": "2023-10-17T05:19:01Z",
             "owner": "jflheureux",
@@ -1860,6 +1933,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183154220,
             "language": "JavaScript",
             "last_commit": "2021-01-05T07:57:39Z",
             "owner": "altola",
@@ -1874,6 +1948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155327034,
             "language": "JavaScript",
             "last_commit": "2021-01-05T04:47:11Z",
             "owner": "coreyasmith",
@@ -1888,6 +1963,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187233310,
             "language": "JavaScript",
             "last_commit": "2019-05-17T15:14:05Z",
             "owner": "chaturangar",
@@ -1902,6 +1978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157163491,
             "language": "JavaScript",
             "last_commit": "2021-01-05T04:49:07Z",
             "owner": "coreyasmith",
@@ -1916,6 +1993,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110883849,
             "language": "TypeScript",
             "last_commit": "2017-11-15T20:38:38Z",
             "owner": "kamsar",
@@ -1930,24 +2008,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 542575770,
             "language": null,
             "last_commit": "2022-08-11T21:20:49Z",
             "owner": "KayeeNL",
             "repo": "Sitecore.Extensions.JSS.SVG",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "JSS with Vue.js",
-          "description": "A starting template for JSS using Vue.js framework.",
-          "children": []
         }
       ],
       "title": "JSS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1956,6 +2029,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104233520,
             "language": "TypeScript",
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
@@ -1970,6 +2044,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248393576,
             "language": "JavaScript",
             "last_commit": "2025-12-13T00:55:50Z",
             "owner": "uniformdev",
@@ -1981,7 +2056,7 @@
       "title": "Headless"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1990,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81065173,
             "language": "JavaScript",
             "last_commit": "2023-06-26T07:25:43Z",
             "owner": "muso31",
@@ -2004,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170882752,
             "language": "CSS",
             "last_commit": "2026-01-15T08:33:57Z",
             "owner": "Sitecore",
@@ -2018,6 +2095,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106273777,
             "language": "PowerShell",
             "last_commit": "2021-10-05T20:54:42Z",
             "owner": "richardszalay",
@@ -2032,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103165679,
             "language": "JavaScript",
             "last_commit": "2022-05-30T12:41:17Z",
             "owner": "ava-innersource",
@@ -2046,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103165679,
             "language": "JavaScript",
             "last_commit": "2022-05-30T12:41:17Z",
             "owner": "ava-innersource",
@@ -2060,6 +2140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355469007,
             "language": "TypeScript",
             "last_commit": "2026-05-12T17:03:44Z",
             "owner": "Sitecore",
@@ -2074,6 +2155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57083995,
             "language": "Python",
             "last_commit": "2021-12-14T21:45:52Z",
             "owner": "Sitecore",
@@ -2088,6 +2170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118653842,
             "language": "HTML",
             "last_commit": "2018-09-26T18:21:20Z",
             "owner": "LaubPlusCo",
@@ -2102,6 +2185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240893257,
             "language": "C#",
             "last_commit": "2021-12-31T09:40:26Z",
             "owner": "LaubPlusCo",
@@ -2116,6 +2200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156970705,
             "language": "C#",
             "last_commit": "2018-11-10T10:29:41Z",
             "owner": "TwentyGotoTen",
@@ -2130,6 +2215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252070754,
             "language": "CSS",
             "last_commit": "2020-04-08T02:47:10Z",
             "owner": "konabos",
@@ -2141,7 +2227,7 @@
       "title": "Helix"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2150,6 +2236,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500504731,
             "language": "C#",
             "last_commit": "2023-01-25T05:12:24Z",
             "owner": "Antonytm",
@@ -2164,6 +2251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114406480,
             "language": "PowerShell",
             "last_commit": "2017-12-17T10:39:39Z",
             "owner": "richardszalay",
@@ -2178,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108184683,
             "language": null,
             "last_commit": "2017-10-25T10:55:26Z",
             "owner": "jermdavis",
@@ -2189,7 +2278,7 @@
       "title": "Icons"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2198,6 +2287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609796115,
             "language": "C#",
             "last_commit": "2023-05-20T17:47:04Z",
             "owner": "GAAOPS",
@@ -2212,6 +2302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640496873,
             "language": null,
             "last_commit": "2023-05-15T08:15:12Z",
             "owner": "GAAOPS",
@@ -2223,7 +2314,7 @@
       "title": "Item Resource Files"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2232,6 +2323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8012926,
             "language": "C#",
             "last_commit": "2022-03-19T22:45:12Z",
             "owner": "kevinbrechbuehl",
@@ -2246,6 +2338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77034905,
             "language": "C#",
             "last_commit": "2019-04-30T12:16:09Z",
             "owner": "merkle-open",
@@ -2260,6 +2353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6350873,
             "language": "C#",
             "last_commit": "2012-10-23T11:03:58Z",
             "owner": "adoprog",
@@ -2271,7 +2365,7 @@
       "title": "Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2280,6 +2374,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20209175,
             "language": "C#",
             "last_commit": "2014-05-27T06:49:34Z",
             "owner": "asmagin",
@@ -2294,6 +2389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95720146,
             "language": "C#",
             "last_commit": "2017-07-19T20:05:34Z",
             "owner": "ivansharamok",
@@ -2308,6 +2404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82117391,
             "language": "C#",
             "last_commit": "2016-07-13T14:07:59Z",
             "owner": "jammykam",
@@ -2322,6 +2419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114780541,
             "language": "C#",
             "last_commit": "2017-12-20T08:23:59Z",
             "owner": "merkle-open",
@@ -2333,7 +2431,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2342,6 +2440,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38401673,
             "language": "C#",
             "last_commit": "2025-12-23T09:53:43Z",
             "owner": "Sitecore",
@@ -2356,6 +2455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203574685,
             "language": "C#",
             "last_commit": "2024-05-13T05:49:37Z",
             "owner": "MartinMiles",
@@ -2370,6 +2470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43418359,
             "language": "ASP.NET",
             "last_commit": "2022-05-10T09:11:11Z",
             "owner": "jbluemink",
@@ -2381,7 +2482,7 @@
       "title": "Maintenance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2390,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1032922511,
             "language": "TypeScript",
             "last_commit": "2025-10-30T00:34:15Z",
             "owner": "Sitecore",
@@ -2404,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 963627616,
             "language": "TypeScript",
             "last_commit": "2025-12-09T00:54:19Z",
             "owner": "Sitecore",
@@ -2418,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024585935,
             "language": "TypeScript",
             "last_commit": "2025-12-09T00:23:52Z",
             "owner": "Sitecore",
@@ -2429,7 +2533,7 @@
       "title": "Marketplace"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2438,6 +2542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21997053,
             "language": "C#",
             "last_commit": "2024-03-25T11:57:48Z",
             "owner": "kamsar",
@@ -2452,6 +2557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64957766,
             "language": "C#",
             "last_commit": "2018-06-26T20:17:41Z",
             "owner": "Sitecore",
@@ -2466,6 +2572,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72986516,
             "language": "C#",
             "last_commit": "2017-07-10T15:21:26Z",
             "owner": "robhabraken",
@@ -2480,6 +2587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41866925,
             "language": "CSS",
             "last_commit": "2015-09-03T15:54:16Z",
             "owner": "zkniebel",
@@ -2494,6 +2602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37934857,
             "language": "C#",
             "last_commit": "2015-06-24T01:23:01Z",
             "owner": "ivansharamok",
@@ -2505,7 +2614,7 @@
       "title": "Media"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2514,6 +2623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5798270,
             "language": "C#",
             "last_commit": "2024-09-13T08:23:02Z",
             "owner": "mikeedwards83",
@@ -2528,6 +2638,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10375000,
             "language": "C#",
             "last_commit": "2023-06-02T20:49:28Z",
             "owner": "blipson89",
@@ -2542,6 +2653,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3765295,
             "language": "C#",
             "last_commit": "2013-01-09T08:22:29Z",
             "owner": "Sitecore",
@@ -2556,6 +2668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49197447,
             "language": "C#",
             "last_commit": "2016-01-08T09:58:12Z",
             "owner": "lowedown",
@@ -2570,6 +2683,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87936058,
             "language": "C#",
             "last_commit": "2017-04-04T10:30:19Z",
             "owner": "ParTech",
@@ -2581,7 +2695,7 @@
       "title": "ORM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2590,6 +2704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139237940,
             "language": "CSS",
             "last_commit": "2023-03-01T13:54:15Z",
             "owner": "GoranHalvarsson",
@@ -2604,6 +2719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39743149,
             "language": "C#",
             "last_commit": "2022-06-22T17:36:35Z",
             "owner": "JeffDarchuk",
@@ -2618,6 +2734,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104243212,
             "language": "C#",
             "last_commit": "2017-09-20T20:24:33Z",
             "owner": "jammykam",
@@ -2632,6 +2749,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53507134,
             "language": "C#",
             "last_commit": "2016-03-11T11:17:07Z",
             "owner": "boro2g",
@@ -2646,6 +2764,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8993026,
             "language": "C#",
             "last_commit": "2013-04-29T07:45:21Z",
             "owner": "KayeeNL",
@@ -2660,6 +2779,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83253534,
             "language": "C#",
             "last_commit": "2020-08-12T16:48:06Z",
             "owner": "coreyasmith",
@@ -2674,6 +2794,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101402722,
             "language": "C#",
             "last_commit": "2018-06-26T22:18:18Z",
             "owner": "michaellwest",
@@ -2685,7 +2806,7 @@
       "title": "Other"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2694,6 +2815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10124147,
             "language": "C#",
             "last_commit": "2022-07-12T06:31:03Z",
             "owner": "kevinobee",
@@ -2708,6 +2830,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41857707,
             "language": "C#",
             "last_commit": "2023-05-02T13:31:58Z",
             "owner": "HedgehogDevelopment",
@@ -2722,6 +2845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37601928,
             "language": "C#",
             "last_commit": "2017-12-28T20:03:14Z",
             "owner": "HedgehogDevelopment",
@@ -2736,6 +2860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229340749,
             "language": "C#",
             "last_commit": "2021-02-02T15:00:07Z",
             "owner": "JeffDarchuk",
@@ -2750,6 +2875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263164004,
             "language": "PowerShell",
             "last_commit": "2026-02-26T03:41:24Z",
             "owner": "michaellwest",
@@ -2761,7 +2887,7 @@
       "title": "Packaging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2770,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8989087,
             "language": "C#",
             "last_commit": "2014-04-08T08:01:50Z",
             "owner": "ParTech",
@@ -2784,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99506544,
             "language": "C#",
             "last_commit": "2020-08-12T16:42:57Z",
             "owner": "coreyasmith",
@@ -2795,7 +2923,7 @@
       "title": "Pipelines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2804,6 +2932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32868641,
             "language": "C#",
             "last_commit": "2023-11-07T17:18:17Z",
             "owner": "HedgehogDevelopment",
@@ -2818,6 +2947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62745529,
             "language": "C#",
             "last_commit": "2019-06-11T17:09:00Z",
             "owner": "mikeedwards83",
@@ -2832,6 +2962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145332574,
             "language": "PowerShell",
             "last_commit": "2020-08-12T16:47:17Z",
             "owner": "coreyasmith",
@@ -2846,6 +2977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329556092,
             "language": "PowerShell",
             "last_commit": "2024-04-30T18:14:26Z",
             "owner": "KayeeNL",
@@ -2860,6 +2992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9710908,
             "language": "C#",
             "last_commit": "2015-03-17T07:58:35Z",
             "owner": "robhabraken",
@@ -2874,6 +3007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38854597,
             "language": "C#",
             "last_commit": "2015-07-10T06:34:50Z",
             "owner": "Sitecore",
@@ -2885,7 +3019,7 @@
       "title": "Publishing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2894,6 +3028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10941851,
             "language": "C#",
             "last_commit": "2013-12-05T19:02:29Z",
             "owner": "seankearney",
@@ -2908,6 +3043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173615013,
             "language": "C#",
             "last_commit": "2019-03-04T21:39:48Z",
             "owner": "marek-musielak",
@@ -2922,6 +3058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93008145,
             "language": "C#",
             "last_commit": "2020-08-12T16:41:35Z",
             "owner": "coreyasmith",
@@ -2936,6 +3073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105720649,
             "language": "C#",
             "last_commit": "2017-10-04T01:29:53Z",
             "owner": "jammykam",
@@ -2950,30 +3088,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50575356,
             "language": "C#",
             "last_commit": "2016-01-28T11:36:05Z",
             "owner": "boro2g",
             "repo": "sitecore-adaptive-rules",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Conditional Placeholder Settings",
-          "description": "A module to allow Sitecore Rules Engine to support the existing placeholder settings functionality coming with Sitecore.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Adaptive Rules",
-          "description": "Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).",
-          "children": []
         }
       ],
       "title": "Rules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2982,6 +3109,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104233520,
             "language": "TypeScript",
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
@@ -2996,8 +3124,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:29:58Z",
+            "last_commit": "2026-08-19T10:40:26Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -3010,6 +3139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953911038,
             "language": "TypeScript",
             "last_commit": "2026-08-17T04:56:51Z",
             "owner": "Sitecore",
@@ -3024,6 +3154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790727799,
             "language": "C#",
             "last_commit": "2026-01-11T21:47:19Z",
             "owner": "Sitecore",
@@ -3035,7 +3166,7 @@
       "title": "SDK"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3044,6 +3175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126257938,
             "language": "C#",
             "last_commit": "2023-05-23T07:43:51Z",
             "owner": "GuitarRich",
@@ -3058,6 +3190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40617457,
             "language": "C#",
             "last_commit": "2022-06-22T20:25:34Z",
             "owner": "jbluemink",
@@ -3072,6 +3205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310209302,
             "language": "C#",
             "last_commit": "2024-05-03T14:28:58Z",
             "owner": "KayeeNL",
@@ -3086,6 +3220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99898062,
             "language": "C#",
             "last_commit": "2017-08-10T14:47:30Z",
             "owner": "mikaelnet",
@@ -3100,6 +3235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349447445,
             "language": "C#",
             "last_commit": "2026-03-19T06:41:24Z",
             "owner": "Sitecore",
@@ -3114,6 +3250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32585626,
             "language": "C#",
             "last_commit": "2015-04-12T17:56:12Z",
             "owner": "islaytitans",
@@ -3128,6 +3265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578624583,
             "language": "C#",
             "last_commit": "2026-08-17T18:50:24Z",
             "owner": "michaellwest",
@@ -3139,7 +3277,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3148,6 +3286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5579273,
             "language": "HTML",
             "last_commit": "2024-02-27T02:30:15Z",
             "owner": "cadamsdotcom",
@@ -3162,6 +3301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21618748,
             "language": "C#",
             "last_commit": "2022-03-22T23:21:11Z",
             "owner": "iamandycohen",
@@ -3176,6 +3316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5979285,
             "language": "C#",
             "last_commit": "2020-07-27T22:08:52Z",
             "owner": "JimmieOverby",
@@ -3190,6 +3331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67215768,
             "language": "C#",
             "last_commit": "2022-02-01T17:09:05Z",
             "owner": "jermdavis",
@@ -3204,6 +3346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17541371,
             "language": "C#",
             "last_commit": "2015-03-02T15:21:11Z",
             "owner": "ParTech",
@@ -3218,6 +3361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170389562,
             "language": "C#",
             "last_commit": "2022-06-22T22:09:30Z",
             "owner": "bigredmachine",
@@ -3232,6 +3376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7317172,
             "language": "C#",
             "last_commit": "2017-12-29T09:50:36Z",
             "owner": "AlexanderDavyduk",
@@ -3243,7 +3388,7 @@
       "title": "SEO"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3252,6 +3397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7831450,
             "language": "C#",
             "last_commit": "2024-06-15T06:38:56Z",
             "owner": "SitecoreUnicorn",
@@ -3266,6 +3412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51537913,
             "language": "C#",
             "last_commit": "2022-11-19T16:01:39Z",
             "owner": "JeffDarchuk",
@@ -3280,6 +3427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31641283,
             "language": "C#",
             "last_commit": "2022-06-22T18:47:23Z",
             "owner": "SitecoreUnicorn",
@@ -3294,6 +3442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10517706,
             "language": "C#",
             "last_commit": "2013-06-14T05:59:19Z",
             "owner": "kamsar",
@@ -3305,7 +3454,7 @@
       "title": "Serialization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3314,6 +3463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244891840,
             "language": "C#",
             "last_commit": "2020-03-05T11:51:34Z",
             "owner": "muso31",
@@ -3328,6 +3478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239510504,
             "language": "C#",
             "last_commit": "2022-05-13T22:18:46Z",
             "owner": "JuliusAngwenyi",
@@ -3342,24 +3493,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174763874,
             "language": "C#",
             "last_commit": "2019-03-30T02:08:17Z",
             "owner": "georgechang",
             "repo": "schost-basic",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Host Quick Start",
-          "description": "A basic set of templates to help you get started building your own Sitecore Host applications.",
-          "children": []
         }
       ],
       "title": "Sitecore Host"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3368,6 +3514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302086538,
             "language": "PowerShell",
             "last_commit": "2023-02-23T20:49:10Z",
             "owner": "michaellwest",
@@ -3382,6 +3529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76904213,
             "language": "CSS",
             "last_commit": "2026-04-06T21:14:00Z",
             "owner": "SitecorePowerShell",
@@ -3396,6 +3544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167871100,
             "language": "C#",
             "last_commit": "2019-12-09T23:18:02Z",
             "owner": "alan-null",
@@ -3407,7 +3556,7 @@
       "title": "SPE (Sitecore PowerShell Extension)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3416,6 +3565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162392621,
             "language": "HTML",
             "last_commit": "2019-01-03T14:46:02Z",
             "owner": "Mitya88",
@@ -3430,6 +3580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162460651,
             "language": "TypeScript",
             "last_commit": "2022-12-30T04:23:24Z",
             "owner": "Mitya88",
@@ -3444,6 +3595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19216896,
             "language": "C#",
             "last_commit": "2022-06-22T16:28:15Z",
             "owner": "komainu85",
@@ -3455,7 +3607,7 @@
       "title": "SPEAK"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3464,6 +3616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81723832,
             "language": "C#",
             "last_commit": "2021-11-21T13:13:59Z",
             "owner": "alan-null",
@@ -3478,6 +3631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183189545,
             "language": "HTML",
             "last_commit": "2021-05-03T13:11:58Z",
             "owner": "markvanaalst",
@@ -3492,6 +3646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90316060,
             "language": "C#",
             "last_commit": "2022-06-22T15:35:56Z",
             "owner": "michaellwest",
@@ -3506,6 +3661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126257938,
             "language": "C#",
             "last_commit": "2023-05-23T07:43:51Z",
             "owner": "GuitarRich",
@@ -3520,6 +3676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154022026,
             "language": "PowerShell",
             "last_commit": "2021-10-16T23:13:24Z",
             "owner": "alan-null",
@@ -3534,6 +3691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114030319,
             "language": null,
             "last_commit": "2025-01-29T21:29:33Z",
             "owner": "alan-null",
@@ -3548,6 +3706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171516402,
             "language": "C#",
             "last_commit": "2019-06-12T09:58:46Z",
             "owner": "MartinMiles",
@@ -3562,6 +3721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189876106,
             "language": "TypeScript",
             "last_commit": "2022-03-25T21:51:27Z",
             "owner": "AdamNaj",
@@ -3576,6 +3736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245196948,
             "language": "HTML",
             "last_commit": "2023-01-06T02:39:24Z",
             "owner": "markvanaalst",
@@ -3590,6 +3751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240131398,
             "language": "Dockerfile",
             "last_commit": "2022-12-15T22:11:51Z",
             "owner": "michaellwest",
@@ -3604,6 +3766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154685166,
             "language": "C#",
             "last_commit": "2018-10-25T15:02:46Z",
             "owner": "JeffDarchuk",
@@ -3618,6 +3781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349293720,
             "language": "PowerShell",
             "last_commit": "2021-03-19T03:55:19Z",
             "owner": "konabos",
@@ -3629,7 +3793,7 @@
       "title": "SXA (Sitecore Experience Accelerator)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3638,6 +3802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16143836,
             "language": "C#",
             "last_commit": "2022-12-08T01:05:37Z",
             "owner": "sshushliapin",
@@ -3652,6 +3817,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33258112,
             "language": "C#",
             "last_commit": "2018-02-21T16:12:44Z",
             "owner": "valtech",
@@ -3663,7 +3829,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3672,6 +3838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76874549,
             "language": "C#",
             "last_commit": "2016-12-19T15:51:24Z",
             "owner": "ianjohngraham",
@@ -3686,6 +3853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195881829,
             "language": "C#",
             "last_commit": "2021-11-19T00:02:28Z",
             "owner": "peplau",
@@ -3700,6 +3868,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178454582,
             "language": "C#",
             "last_commit": "2019-04-12T21:12:20Z",
             "owner": "MartinMiles",
@@ -3714,24 +3883,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73037974,
             "language": "C#",
             "last_commit": "2022-06-22T17:32:44Z",
             "owner": "coreyasmith",
             "repo": "sitecore-web-api-session",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Shared Source: Web API Client",
-          "description": "Sitecore WebAPI client.",
-          "children": []
         }
       ],
       "title": "WebApi"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3740,6 +3904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58551194,
             "language": "C#",
             "last_commit": "2022-12-08T01:45:28Z",
             "owner": "Sitecore",
@@ -3754,6 +3919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118517505,
             "language": "C#",
             "last_commit": "2021-11-02T13:46:58Z",
             "owner": "jst-cyr",
@@ -3768,6 +3934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163544997,
             "language": "C#",
             "last_commit": "2025-11-28T16:25:41Z",
             "owner": "lowedown",
@@ -3782,6 +3949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213983956,
             "language": "C#",
             "last_commit": "2025-11-28T16:30:40Z",
             "owner": "lowedown",
@@ -3796,6 +3964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158851434,
             "language": "C#",
             "last_commit": "2019-03-19T14:48:59Z",
             "owner": "boro2g",
@@ -3810,6 +3979,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110879970,
             "language": "JavaScript",
             "last_commit": "2017-11-17T15:02:04Z",
             "owner": "ianjohngraham",
@@ -3824,6 +3994,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156087330,
             "language": "PowerShell",
             "last_commit": "2019-03-06T22:50:14Z",
             "owner": "steviemcg",
@@ -3835,7 +4006,7 @@
       "title": "xConnect and xDB"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3844,6 +4015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104233520,
             "language": "TypeScript",
             "last_commit": "2026-08-10T14:07:30Z",
             "owner": "Sitecore",
@@ -3858,6 +4030,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 544867981,
             "language": "TypeScript",
             "last_commit": "2025-09-02T10:21:17Z",
             "owner": "sitecorelabs",
@@ -3872,6 +4045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480678477,
             "language": "CSS",
             "last_commit": "2026-05-14T13:24:18Z",
             "owner": "Sitecore",
@@ -3886,6 +4060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520938351,
             "language": "TypeScript",
             "last_commit": "2025-12-18T14:34:42Z",
             "owner": "Sitecore",
@@ -3900,6 +4075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 679140129,
             "language": "TypeScript",
             "last_commit": "2023-10-19T07:42:08Z",
             "owner": "Sitecore",
@@ -3914,6 +4090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754255630,
             "language": "TypeScript",
             "last_commit": "2025-02-25T13:51:21Z",
             "owner": "Sitecore",
@@ -3928,6 +4105,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 504585209,
             "language": "TypeScript",
             "last_commit": "2023-12-06T22:20:27Z",
             "owner": "sitecorelabs",
@@ -3942,6 +4120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710769455,
             "language": "C#",
             "last_commit": "2023-11-15T09:27:29Z",
             "owner": "jbluemink",
@@ -3954,7 +4133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:56:05.316Z",
+    "last_updated": "2026-08-19T10:55:45.264Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
