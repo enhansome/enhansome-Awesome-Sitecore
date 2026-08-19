@@ -525,7 +525,7 @@
             "last_commit": "2025-06-08T13:08:04Z",
             "owner": "StefanScherer",
             "repo": "windows-docker-machine",
-            "stars": 1158
+            "stars": 1159
           }
         },
         {
@@ -4133,8 +4133,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:55:45.264Z",
+    "last_updated": "2026-08-19T12:10:19.663Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
+    "original_repository_id": 247958538,
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
     "enhanced_repository_description": null,
