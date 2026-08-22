@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-21T10:46:38Z",
+            "last_commit": "2026-08-22T08:45:59Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:25:32Z",
+            "last_commit": "2026-08-21T21:40:58Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -3126,7 +3126,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:25:32Z",
+            "last_commit": "2026-08-21T21:40:58Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -4133,7 +4133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:58:21.187Z",
+    "last_updated": "2026-08-22T10:50:05.626Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_id": 247958538,
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
