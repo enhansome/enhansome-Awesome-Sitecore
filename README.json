@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T10:47:28Z",
+            "last_commit": "2026-08-24T14:41:39Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -1424,6 +1424,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Sitecore Demo Edge",
+          "description": "A repository used for the primary Sitecore Edge for Content Hub and Experience Management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355469007,
+            "language": "TypeScript",
+            "last_commit": "2026-05-12T17:03:44Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.Demo.Edge",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Edge"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sitecore Sweep",
+          "description": "A simple extensible module for Sitecore for the automatic cleaning of HTML in Items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72586651,
+            "language": "C#",
+            "last_commit": "2020-04-23T08:32:18Z",
+            "owner": "Kasaku",
+            "repo": "Sitecore.Sweep",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Editing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Sitecore Smart Commands",
           "description": "A shared-source module that contains smart copy, duplicate, and clone commands in Content Editor, that implement so much wanted functionality missing by default.",
           "children": [],
@@ -1826,6 +1868,48 @@
         }
       ],
       "title": "Forms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NitroNet for Sitecore",
+          "description": "Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60009946,
+            "language": "C#",
+            "last_commit": "2022-11-10T13:32:12Z",
+            "owner": "merkle-open",
+            "repo": "NitroNetSitecore",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sitecore GraphQL Import",
+          "description": "A console app C# demo showcasing the various capabilities of the Sitecore GraphQL API usage, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 710769455,
+            "language": "C#",
+            "last_commit": "2023-11-15T09:27:29Z",
+            "owner": "jbluemink",
+            "repo": "Sitecore-GraphQL-Import",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "GraphQL"
     },
     {
       "description": null,
@@ -3509,6 +3593,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Sitecore Search Starter Kit",
+          "description": "A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650194624,
+            "language": "TypeScript",
+            "last_commit": "2026-04-30T10:10:55Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore-Search-TS-SDK-Starter-Kit",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Sitecore Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sitecore Send Postman Collection",
+          "description": "A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439065161,
+            "language": null,
+            "last_commit": "2021-12-16T19:53:04Z",
+            "owner": "neilkillen",
+            "repo": "SitecoreSendPostmanCollection",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Sitecore Send"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "SPE Content Migrator",
           "description": "Script used to migrate content between Sitecore instances using SPE.",
           "children": [],
@@ -3833,6 +3959,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Token Set",
+          "description": "Provides additional standard value tokens for Sitecore Data Templates, including future date and obtaining the value by executing a query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13588012,
+            "language": "C#",
+            "last_commit": "2015-05-14T10:30:32Z",
+            "owner": "retohugi",
+            "repo": "SitecoreExtension-TokenSet",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terminal DevEx Improvements",
+          "description": "A Sitecore branded Windows Terminal and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501639882,
+            "language": "PowerShell",
+            "last_commit": "2026-01-14T13:19:54Z",
+            "owner": "Sitecore",
+            "repo": "Windows-Terminal-DevEx-improvements",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniversalTracker SDK",
+          "description": ".Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160497267,
+            "language": "C#",
+            "last_commit": "2018-12-05T14:59:06Z",
+            "owner": "Sitecore",
+            "repo": "Sitecore.UniversalTracker.MobileSDK",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Universal Tracker"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Odata.SitecoreExample",
           "description": "An example of a Sitecore oData Repository.",
           "children": [],
@@ -4133,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:02:19.397Z",
+    "last_updated": "2026-08-24T14:47:32.787Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_id": 247958538,
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
