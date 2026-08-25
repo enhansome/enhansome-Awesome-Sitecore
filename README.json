@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T14:41:39Z",
+            "last_commit": "2026-08-25T04:46:37Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:21:34Z",
+            "last_commit": "2026-08-24T23:37:45Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 833872387,
             "language": "PowerShell",
-            "last_commit": "2026-08-24T08:58:10Z",
+            "last_commit": "2026-08-25T04:42:30Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 29
@@ -3210,7 +3210,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:21:34Z",
+            "last_commit": "2026-08-24T23:37:45Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -4322,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:32.787Z",
+    "last_updated": "2026-08-25T06:36:04.717Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_id": 247958538,
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
