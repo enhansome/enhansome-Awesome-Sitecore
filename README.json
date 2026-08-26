@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-25T10:42:10Z",
+            "last_commit": "2026-08-26T10:44:25Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -552,7 +552,7 @@
             "archived": false,
             "id": 106578380,
             "language": "C#",
-            "last_commit": "2026-06-24T16:39:00Z",
+            "last_commit": "2026-08-25T16:26:38Z",
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Platform",
             "stars": 84
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:55:15Z",
+            "last_commit": "2026-08-26T10:49:00Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -1209,7 +1209,7 @@
             "archived": false,
             "id": 106578380,
             "language": "C#",
-            "last_commit": "2026-06-24T16:39:00Z",
+            "last_commit": "2026-08-25T16:26:38Z",
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Platform",
             "stars": 84
@@ -3210,7 +3210,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:55:15Z",
+            "last_commit": "2026-08-26T10:49:00Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -4322,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:00:00.002Z",
+    "last_updated": "2026-08-26T11:01:59.767Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "original_repository_id": 247958538,
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
