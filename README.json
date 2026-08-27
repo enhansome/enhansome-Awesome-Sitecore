@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T10:43:31Z",
+            "last_commit": "2026-08-27T20:41:00Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:11:07Z",
+            "last_commit": "2026-08-27T20:41:10Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -3210,7 +3210,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:11:07Z",
+            "last_commit": "2026-08-27T20:41:10Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -4322,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:56.249Z",
+    "last_updated": "2026-08-27T20:41:20.412Z",
     "original_repository_info": {
       "archived": false,
       "id": 247958538,

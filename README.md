@@ -174,7 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-27 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
 * [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 29 | 🐛 3 | 🌐 PowerShell | 📅 2026-08-25 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
@@ -419,7 +419,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 274 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-21 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-27 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
 * [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-24 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 12 | 🐛 20 | 🌐 C# | 📅 2026-01-11 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
