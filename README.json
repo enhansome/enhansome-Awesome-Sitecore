@@ -144,7 +144,7 @@
             "archived": false,
             "id": 72458223,
             "language": "PowerShell",
-            "last_commit": "2026-08-05T11:47:14Z",
+            "last_commit": "2026-08-26T13:15:07Z",
             "owner": "Sitecore",
             "repo": "Sitecore-Azure-Quickstart-Templates",
             "stars": 144
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-26T10:44:25Z",
+            "last_commit": "2026-08-27T10:43:31Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 317701534,
             "language": "PowerShell",
-            "last_commit": "2026-08-05T06:08:39Z",
+            "last_commit": "2026-08-27T10:06:33Z",
             "owner": "Sitecore",
             "repo": "container-deployment",
             "stars": 32
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T10:49:00Z",
+            "last_commit": "2026-08-27T11:11:07Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -2712,7 +2712,7 @@
             "last_commit": "2024-09-13T08:23:02Z",
             "owner": "mikeedwards83",
             "repo": "Glass.Mapper",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -3210,7 +3210,7 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T10:49:00Z",
+            "last_commit": "2026-08-27T11:11:07Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
@@ -4322,9 +4322,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:01:59.767Z",
-    "original_repository": "MartinMiles/Awesome-Sitecore",
-    "original_repository_id": 247958538,
+    "last_updated": "2026-08-27T11:25:56.249Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 247958538,
+      "language": null,
+      "last_commit": "2025-09-26T00:10:43Z",
+      "owner": "MartinMiles",
+      "repo": "awesome-sitecore",
+      "stars": 84
+    },
     "original_repository_sha": "43875b6ed81227a65fe6b08f91a54f60b30c718b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Sitecore",
     "enhanced_repository_description": null,
