@@ -16,7 +16,8 @@
             "owner": "islaytitans",
             "repo": "SitecoreGoalDescription",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-custom-timeline-eras",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "martinrayenglish",
             "repo": "GoalConversions.Demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Analytics"
@@ -67,7 +70,8 @@
             "owner": "cardinal252",
             "repo": "Sitecore.Boost",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "zkniebel",
             "repo": "SitecoreDXG",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "martinrayenglish",
             "repo": "Sitecore.Cleanup",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "marek-musielak",
             "repo": "Skillcore.Stats",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "richardszalay",
             "repo": "sitecore-assembly-lists",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Audit and performance"
@@ -148,7 +156,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore-Azure-Quickstart-Templates",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "Azure-Samples",
             "repo": "cognitive-services-language-understanding",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "ob1dev",
             "repo": "Sitecore-Azure-Content",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "robhabraken",
             "repo": "Sitecore-Azure-Scripts",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "JeffDarchuk",
             "repo": "AdvancedSitecoreAzureDevops",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "jammykam",
             "repo": "Sitecore-CloudMediaLibrary",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-publishing-service-azure-templates",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "BasLijten",
             "repo": "SitecoreDiagnostics",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "BasLijten",
             "repo": "sitecore-application-insights-annotations",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "ivansharamok",
             "repo": "Sitecore.Media.AzureBlobStorage",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "smithc",
             "repo": "SitecoreCognitiveServices",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Azure"
@@ -319,7 +338,8 @@
             "owner": "jbluemink",
             "repo": "SitecoreCachingManager",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "ParTech",
             "repo": "Cache-Processing-Instance",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "zkniebel",
             "repo": "Sitecore-Advanced-Output-Caching",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "jbluemink",
             "repo": "DictionaryFlushPartialCache",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "KayeeNL",
             "repo": "CacheTuner",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "marek-musielak",
             "repo": "Skillcore.ExperienceEditorCache",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "TwentyGotoTen",
             "repo": "ManualHtmlCacheClearer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Cache"
@@ -417,21 +443,6 @@
     {
       "description": null,
       "items": [
-        {
-          "node_type": "item",
-          "title": "Reference Storefront",
-          "description": "Sitecore Reference Storefront.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 32155880,
-            "language": "C#",
-            "last_commit": "2026-01-15T08:37:09Z",
-            "owner": "Sitecore",
-            "repo": "Reference-Storefront",
-            "stars": 25
-          }
-        },
         {
           "node_type": "item",
           "title": "HabitatHome Commerce",
@@ -445,7 +456,24 @@
             "owner": "Sitecore",
             "repo": "Sitecore.HabitatHome.Commerce",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Reference Storefront",
+          "description": "Sitecore Reference Storefront.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32155880,
+            "language": "C#",
+            "last_commit": "2026-01-15T08:37:09Z",
+            "owner": "Sitecore",
+            "repo": "Reference-Storefront",
+            "stars": 24
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "Sitecore",
             "repo": "SitecoreCommerce",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "richardszalay",
             "repo": "sitecore-commerce-configuration",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "richardszalay",
             "repo": "plumber-sc",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "dsolovay",
             "repo": "ShortConfirmationCodes",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Commerce"
@@ -526,7 +558,8 @@
             "owner": "StefanScherer",
             "repo": "windows-docker-machine",
             "stars": 1159
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -537,11 +570,12 @@
             "archived": false,
             "id": 125524643,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T20:41:00Z",
+            "last_commit": "2026-08-28T20:40:40Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Platform",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "Sitecore",
             "repo": "docker-examples",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "Sitecore",
             "repo": "MVP-Site",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -597,11 +634,12 @@
             "archived": false,
             "id": 317701534,
             "language": "PowerShell",
-            "last_commit": "2026-08-27T10:06:33Z",
+            "last_commit": "2026-08-28T05:12:09Z",
             "owner": "Sitecore",
             "repo": "container-deployment",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "Sitecore",
             "repo": "docker-tools",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "asmagin",
             "repo": "sitecore-packer",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "konabos",
             "repo": "konabos-docker-examples",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "bplasmeijer",
             "repo": "Sitecore-Symposium-2020-Containers-AKS",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "LaubPlusCo",
             "repo": "docker-solr-ssl",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "robhabraken",
             "repo": "paas-to-aks",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "KayeeNL",
             "repo": "sitecore-module-docker-asset-image-creator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "KayeeNL",
             "repo": "sitecore-module-docker-asset-image-creator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -736,7 +782,8 @@
             "owner": "georgechang",
             "repo": "sitecore-k8s",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -751,7 +798,8 @@
             "owner": "michaellwest",
             "repo": "test-sitecore-packages",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -766,7 +814,8 @@
             "owner": "nickwesselman",
             "repo": "sitecore-containers-prerequisites",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Containers"
@@ -787,7 +836,8 @@
             "owner": "Sitecore",
             "repo": "ContentHub-VS-Solution-Example",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -802,7 +852,8 @@
             "owner": "konabos",
             "repo": "Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -817,7 +868,8 @@
             "owner": "robhabraken",
             "repo": "content-hub-focal-point-cropping",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "Sitecore",
             "repo": "content-hub-cli",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "vasiliyfomichev",
             "repo": "content-hub-importer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "josedbaez",
             "repo": "Sitecore.SharedSource.CMP.Connector.Extensions",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "josedbaez",
             "repo": "Sitecore.ContentHub.Twitter",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Content Hub"
@@ -898,7 +954,8 @@
             "owner": "Sitecore",
             "repo": "content-hub-one-nextjs-starterkit",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -913,7 +970,8 @@
             "owner": "Sitecore",
             "repo": "contenthubone-examples",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -928,7 +986,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.CHONE",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Content Hub One"
@@ -945,11 +1004,12 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:41:10Z",
+            "last_commit": "2026-08-28T14:16:08Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1024,8 @@
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Content SDK"
@@ -985,7 +1046,8 @@
             "owner": "jermdavis",
             "repo": "SolrCloud-Helpers",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1062,8 @@
             "owner": "jermdavis",
             "repo": "SearchIndexBuilder",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1078,8 @@
             "owner": "jermdavis",
             "repo": "Sitecore-SolrCloud-Docker",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1094,8 @@
             "owner": "Antonytm",
             "repo": "Sitecore.SolrProxy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1110,8 @@
             "owner": "richardszalay",
             "repo": "sitecore-azure-search-compat",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1126,8 @@
             "owner": "martinrayenglish",
             "repo": "Sitecore-Computed-Search",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1142,8 @@
             "owner": "josedbaez",
             "repo": "sitecore-spatial-geojson-polygons",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1158,8 @@
             "owner": "konabos",
             "repo": "solr-sitecore-schema",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1105,7 +1174,8 @@
             "owner": "LaubPlusCo",
             "repo": "LaubPlusCo.Common.ContentSearch",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Content Search"
@@ -1126,7 +1196,8 @@
             "owner": "markstiles",
             "repo": "SitecoreDataImporter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1212,8 @@
             "owner": "dresser",
             "repo": "SitecoreEzImporter",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Data"
@@ -1162,7 +1234,8 @@
             "owner": "KayeeNL",
             "repo": "Sitecore.DataExchange.Gutters",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1250,8 @@
             "owner": "Sitecore",
             "repo": "Data-Exchange-Framework-Docs",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Data Exchange Framework"
@@ -1198,7 +1272,8 @@
             "owner": "Sitecore",
             "repo": "Habitat",
             "stars": 405
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1288,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Platform",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1304,8 @@
             "owner": "Sitecore",
             "repo": "Helix.Examples",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1320,8 @@
             "owner": "Sitecore",
             "repo": "MVP-Site",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1336,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.HabitatHome.Utilities",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1352,8 @@
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1368,8 @@
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1384,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1400,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.HabitatHome.Commerce",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1416,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.XmCloud.PlaySummit",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1432,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Group",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1448,8 @@
             "owner": "steviemcg",
             "repo": "scuguk",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1464,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.XMCloud.Verticals",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Demo"
@@ -1399,7 +1486,8 @@
             "owner": "asmagin",
             "repo": "Cake.Sitecore",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1502,8 @@
             "owner": "jst-cyr",
             "repo": "NonlinearPostDeploySteps",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Deployment"
@@ -1435,7 +1524,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Edge"
@@ -1456,7 +1546,8 @@
             "owner": "Kasaku",
             "repo": "Sitecore.Sweep",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Editing"
@@ -1477,7 +1568,8 @@
             "owner": "AlenPelin",
             "repo": "Sitecore-Smart-Commands",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1584,8 @@
             "owner": "Velir",
             "repo": "SitecoreFieldSuite",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1600,8 @@
             "owner": "jammykam",
             "repo": "Environment-Styler-for-Sitecore",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1616,8 @@
             "owner": "ParTech",
             "repo": "Browse-Command",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1632,8 @@
             "owner": "EmanueleCiriachi",
             "repo": "Sitecore-TinyMCERTE",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1648,8 @@
             "owner": "merkle-open",
             "repo": "SitecoreCopyPageToVersions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1664,8 @@
             "owner": "ParTech",
             "repo": "Expand-Descendants-Command",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1680,8 @@
             "owner": "TwentyGotoTen",
             "repo": "InsertOptionsLoophole",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1696,8 @@
             "owner": "ianjohngraham",
             "repo": "Coreblimey.ScopeToThis",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1712,8 @@
             "owner": "markvanaalst",
             "repo": "Sitecore.SharedSource.DmsGutters",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1728,8 @@
             "owner": "ParTech",
             "repo": "Copy-Version",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1744,8 @@
             "owner": "MartinMiles",
             "repo": "DeviceEditorShortcuts",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1760,8 @@
             "owner": "Velir",
             "repo": "Sitecore-MoveValidator",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Extending Content Editor"
@@ -1678,7 +1782,8 @@
             "owner": "ParTech",
             "repo": "LimitedText-Field-Controls",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1798,8 @@
             "owner": "Wesley-Lomax",
             "repo": "icon-selector-field",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1814,8 @@
             "owner": "pveller",
             "repo": "BrainJocks.YouTubeVideoField",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1830,8 @@
             "owner": "jammykam",
             "repo": "Hide-Dependent-Fields",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1846,8 @@
             "owner": "MartinMiles",
             "repo": "Sitecore.Foundation.Fields",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1862,8 @@
             "owner": "AlexanderDavyduk",
             "repo": "CustomFields",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1768,7 +1878,8 @@
             "owner": "josedbaez",
             "repo": "Monoco.CMS.FieldTypes",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1783,7 +1894,8 @@
             "owner": "ivansharamok",
             "repo": "CrossDatabaseTreeListField",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1798,7 +1910,8 @@
             "owner": "markvanaalst",
             "repo": "Sitecore.SharedSource.ImageSelector",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Fields"
@@ -1819,7 +1932,8 @@
             "owner": "bartverdonck",
             "repo": "Sitecore-Forms-Extensions",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1948,8 @@
             "owner": "afaniuolo",
             "repo": "WFFM-Conversion-Tool",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1964,8 @@
             "owner": "jbluemink",
             "repo": "Sitecore-Forms-Cloud-Upload",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1980,8 @@
             "owner": "KayeeNL",
             "repo": "Sitecore.ExperienceForms.Modules.SendMail",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Forms"
@@ -1885,7 +2002,8 @@
             "owner": "merkle-open",
             "repo": "NitroNetSitecore",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Frameworks"
@@ -1906,7 +2024,8 @@
             "owner": "jbluemink",
             "repo": "Sitecore-GraphQL-Import",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "GraphQL"
@@ -1927,7 +2046,8 @@
             "owner": "uniformdev",
             "repo": "sitecore-jss-nextjs-starterkit",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2062,8 @@
             "owner": "konabos",
             "repo": "Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "JAMstack"
@@ -1963,7 +2084,8 @@
             "owner": "kmazzoni",
             "repo": "SitecoreQL",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2100,8 @@
             "owner": "altola",
             "repo": "sitecore-jss-react-starter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2116,8 @@
             "owner": "Sitecore",
             "repo": "headless-examples",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2008,7 +2132,8 @@
             "owner": "jflheureux",
             "repo": "jss21.4-nextjs-storybook7.4",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2023,7 +2148,8 @@
             "owner": "altola",
             "repo": "sitecore-jss-react-basic",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2038,7 +2164,8 @@
             "owner": "coreyasmith",
             "repo": "jss-extensible-json-renderings",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2053,7 +2180,8 @@
             "owner": "chaturangar",
             "repo": "sugcon-2019-jss-examples",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2068,7 +2196,8 @@
             "owner": "coreyasmith",
             "repo": "jss-anti-forgery-tokens",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2083,7 +2212,8 @@
             "owner": "kamsar",
             "repo": "howtographql",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2098,7 +2228,8 @@
             "owner": "KayeeNL",
             "repo": "Sitecore.Extensions.JSS.SVG",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "JSS"
@@ -2119,7 +2250,8 @@
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2266,8 @@
             "owner": "uniformdev",
             "repo": "sitecore-jss-nextjs-starterkit",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Headless"
@@ -2155,7 +2288,8 @@
             "owner": "muso31",
             "repo": "Helixbase",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2304,8 @@
             "owner": "Sitecore",
             "repo": "Helix.Examples",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2320,8 @@
             "owner": "richardszalay",
             "repo": "helix-publishing-pipeline",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2336,8 @@
             "owner": "ava-innersource",
             "repo": "SitecoreFoundation",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2352,8 @@
             "owner": "ava-innersource",
             "repo": "SitecoreFoundation",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2368,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2384,8 @@
             "owner": "Sitecore",
             "repo": "Helix.Docs",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2400,8 @@
             "owner": "LaubPlusCo",
             "repo": "helix-frontend-example",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2416,8 @@
             "owner": "LaubPlusCo",
             "repo": "Helix-Templates",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2432,8 @@
             "owner": "TwentyGotoTen",
             "repo": "CustomLinkProvider",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2448,8 @@
             "owner": "konabos",
             "repo": "Konabos.Helixify",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Helix"
@@ -2326,7 +2470,8 @@
             "owner": "Antonytm",
             "repo": "sitecore-icons",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2341,7 +2486,8 @@
             "owner": "richardszalay",
             "repo": "sitecore-icon-build",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2356,7 +2502,8 @@
             "owner": "jermdavis",
             "repo": "ExtraPeopleIcons",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Icons"
@@ -2377,7 +2524,8 @@
             "owner": "GAAOPS",
             "repo": "Sitecore.Protobuf.Browser",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2392,7 +2540,8 @@
             "owner": "GAAOPS",
             "repo": "Sitecore.IAR.Management",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Item Resource Files"
@@ -2413,7 +2562,8 @@
             "owner": "kevinbrechbuehl",
             "repo": "SitecoreItemVersioner",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2428,7 +2578,8 @@
             "owner": "merkle-open",
             "repo": "SitecoreCopyPageToVersions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2443,7 +2594,8 @@
             "owner": "adoprog",
             "repo": "Sitecore-Item-Translator",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Languages"
@@ -2464,7 +2616,8 @@
             "owner": "asmagin",
             "repo": "Sitecore.Logger.RabbitMQ.GelfAppender",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2479,7 +2632,8 @@
             "owner": "ivansharamok",
             "repo": "SitecoreRollingLogFileAppender",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2494,7 +2648,8 @@
             "owner": "jammykam",
             "repo": "Sitecore.Logentries",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2509,7 +2664,8 @@
             "owner": "merkle-open",
             "repo": "Namics.Foundation.Logger",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Logging"
@@ -2530,7 +2686,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore-Instance-Manager",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2545,7 +2702,8 @@
             "owner": "MartinMiles",
             "repo": "Sifon",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2560,7 +2718,8 @@
             "owner": "jbluemink",
             "repo": "Sitecore-Admin-Scripts-for-Development-and-Deploying",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Maintenance"
@@ -2581,7 +2740,8 @@
             "owner": "Sitecore",
             "repo": "marketplace-starter",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2596,7 +2756,8 @@
             "owner": "Sitecore",
             "repo": "marketplace-google-analytics",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2611,7 +2772,8 @@
             "owner": "Sitecore",
             "repo": "marketplace-icon-picker",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Marketplace"
@@ -2632,7 +2794,8 @@
             "owner": "kamsar",
             "repo": "Dianoga",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2647,7 +2810,8 @@
             "owner": "Sitecore",
             "repo": "Media-Framework-Brightcove-Edition",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2662,7 +2826,8 @@
             "owner": "robhabraken",
             "repo": "shrink",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2677,7 +2842,8 @@
             "owner": "zkniebel",
             "repo": "Autocropper",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2692,7 +2858,8 @@
             "owner": "ivansharamok",
             "repo": "Youtube-Integration",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Media"
@@ -2713,7 +2880,8 @@
             "owner": "mikeedwards83",
             "repo": "Glass.Mapper",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2728,7 +2896,8 @@
             "owner": "blipson89",
             "repo": "Synthesis",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2743,7 +2912,8 @@
             "owner": "Sitecore",
             "repo": "TDS-T4-Model-Generation",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2758,7 +2928,8 @@
             "owner": "lowedown",
             "repo": "TemplateModelHelper",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2773,7 +2944,8 @@
             "owner": "ParTech",
             "repo": "sitecore.codegenerator",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "ORM"
@@ -2794,7 +2966,8 @@
             "owner": "GoranHalvarsson",
             "repo": "SitecoreBlazor",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2809,7 +2982,8 @@
             "owner": "JeffDarchuk",
             "repo": "SCTokenManager",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2824,7 +2998,8 @@
             "owner": "jammykam",
             "repo": "Sitecore.SharedSource.JohnWest",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2839,7 +3014,8 @@
             "owner": "boro2g",
             "repo": "Sitecore-Redis-Session-Provider",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2854,7 +3030,8 @@
             "owner": "KayeeNL",
             "repo": "Sitecore.License.Expiration.Module",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2869,7 +3046,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-sample-mvc",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2884,7 +3062,8 @@
             "owner": "michaellwest",
             "repo": "westco-sxp-notifications",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Other"
@@ -2905,7 +3084,8 @@
             "owner": "kevinobee",
             "repo": "Sitecore.Ship",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2920,7 +3100,8 @@
             "owner": "HedgehogDevelopment",
             "repo": "SitecorePackageDeployer",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2935,7 +3116,8 @@
             "owner": "HedgehogDevelopment",
             "repo": "UpdatePackageInstaller",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2950,7 +3132,8 @@
             "owner": "JeffDarchuk",
             "repo": "PackageAutoloader",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -2965,7 +3148,8 @@
             "owner": "michaellwest",
             "repo": "test-sitecore-packages",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Packaging"
@@ -2986,7 +3170,8 @@
             "owner": "ParTech",
             "repo": "Pipeline-Performance-Monitor",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3001,7 +3186,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-processor-dependency-injection",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Pipelines"
@@ -3022,7 +3208,8 @@
             "owner": "HedgehogDevelopment",
             "repo": "SCScheduledPublishing",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3037,7 +3224,8 @@
             "owner": "mikeedwards83",
             "repo": "Glass.PublishViewer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3052,7 +3240,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-publishing-service-azure-templates",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3067,7 +3256,8 @@
             "owner": "KayeeNL",
             "repo": "sitecore-sif-autoinstall-publishingservice",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3082,7 +3272,8 @@
             "owner": "robhabraken",
             "repo": "sitecore-power-publish",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3097,7 +3288,8 @@
             "owner": "Sitecore",
             "repo": "AdvancedPublishDialog",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Publishing"
@@ -3118,7 +3310,8 @@
             "owner": "seankearney",
             "repo": "Sitecore-ItemNamingRules",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3133,7 +3326,8 @@
             "owner": "marek-musielak",
             "repo": "Marek.Musielak.PageRules",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3148,7 +3342,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-organize-insert-options-rules",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3163,7 +3358,8 @@
             "owner": "jammykam",
             "repo": "Konabos.SharedSource.MenuItemRules",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3178,7 +3374,8 @@
             "owner": "boro2g",
             "repo": "sitecore-adaptive-rules",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Rules"
@@ -3199,7 +3396,8 @@
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3210,11 +3408,12 @@
             "archived": false,
             "id": 905809478,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:41:10Z",
+            "last_commit": "2026-08-28T14:16:08Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3229,7 +3428,8 @@
             "owner": "Sitecore",
             "repo": "marketplace-sdk",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3244,7 +3444,8 @@
             "owner": "Sitecore",
             "repo": "ASP.NET-Core-SDK",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "SDK"
@@ -3265,7 +3466,8 @@
             "owner": "GuitarRich",
             "repo": "SXA.SecurityHeaders",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3280,7 +3482,8 @@
             "owner": "jbluemink",
             "repo": "Sitecore-Security-Rights-Reporting",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3295,7 +3498,8 @@
             "owner": "KayeeNL",
             "repo": "SI-Snitch",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3310,7 +3514,8 @@
             "owner": "mikaelnet",
             "repo": "sitecore-access-rights",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3325,7 +3530,8 @@
             "owner": "Sitecore",
             "repo": "sitecore-identityserver-contrib-membership",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3340,7 +3546,8 @@
             "owner": "islaytitans",
             "repo": "MasterKey",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3355,7 +3562,8 @@
             "owner": "michaellwest",
             "repo": "certz",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Security"
@@ -3376,7 +3584,8 @@
             "owner": "cadamsdotcom",
             "repo": "301RedirectModule",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3391,7 +3600,8 @@
             "owner": "iamandycohen",
             "repo": "UrlRewrite",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3406,7 +3616,8 @@
             "owner": "JimmieOverby",
             "repo": "SitecoreSitemapXML",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3421,7 +3632,8 @@
             "owner": "jermdavis",
             "repo": "SitemapGenerator",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3436,7 +3648,8 @@
             "owner": "ParTech",
             "repo": "Url-Rewriter",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3451,7 +3664,8 @@
             "owner": "bigredmachine",
             "repo": "sitecore-solr",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3466,7 +3680,8 @@
             "owner": "AlexanderDavyduk",
             "repo": "Sitecore-RedirectManager",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "SEO"
@@ -3487,7 +3702,8 @@
             "owner": "SitecoreUnicorn",
             "repo": "Unicorn",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3502,7 +3718,8 @@
             "owner": "JeffDarchuk",
             "repo": "SitecoreSidekick",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3517,7 +3734,8 @@
             "owner": "SitecoreUnicorn",
             "repo": "Rainbow",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3532,7 +3750,8 @@
             "owner": "kamsar",
             "repo": "Rhino",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Serialization"
@@ -3553,7 +3772,8 @@
             "owner": "muso31",
             "repo": "Hostbase",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3568,7 +3788,8 @@
             "owner": "JuliusAngwenyi",
             "repo": "SitecoreHostPlugins",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3583,7 +3804,8 @@
             "owner": "georgechang",
             "repo": "schost-basic",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Sitecore Host"
@@ -3604,7 +3826,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore-Search-TS-SDK-Starter-Kit",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Sitecore Search"
@@ -3625,7 +3848,8 @@
             "owner": "neilkillen",
             "repo": "SitecoreSendPostmanCollection",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Sitecore Send"
@@ -3646,7 +3870,8 @@
             "owner": "michaellwest",
             "repo": "Spe-Content-Migrator",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3661,7 +3886,8 @@
             "owner": "SitecorePowerShell",
             "repo": "Book",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3676,7 +3902,8 @@
             "owner": "alan-null",
             "repo": "Sitecore.Utilities",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "SPE (Sitecore PowerShell Extension)"
@@ -3697,7 +3924,8 @@
             "owner": "Mitya88",
             "repo": "SitecoreSpeakUILibrary",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3712,7 +3940,8 @@
             "owner": "Mitya88",
             "repo": "SitecoreSpeak3StarterProject",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3727,7 +3956,8 @@
             "owner": "komainu85",
             "repo": "SitecoreDataImporter",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "SPEAK"
@@ -3748,7 +3978,8 @@
             "owner": "alan-null",
             "repo": "XA.Reference",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3763,7 +3994,8 @@
             "owner": "markvanaalst",
             "repo": "SXA.Styleguide",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3778,7 +4010,8 @@
             "owner": "michaellwest",
             "repo": "westco-sxa-extensions",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3793,7 +4026,8 @@
             "owner": "GuitarRich",
             "repo": "SXA.SecurityHeaders",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3808,7 +4042,8 @@
             "owner": "alan-null",
             "repo": "SXA.HealthCheck",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3823,7 +4058,8 @@
             "owner": "alan-null",
             "repo": "SXA.Index",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3838,7 +4074,8 @@
             "owner": "MartinMiles",
             "repo": "SXA.Foundation.Variants",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3853,7 +4090,8 @@
             "owner": "AdamNaj",
             "repo": "SitecoreScriban-vscode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3868,7 +4106,8 @@
             "owner": "markvanaalst",
             "repo": "SXA.Styleguide.Frontend",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3883,7 +4122,8 @@
             "owner": "michaellwest",
             "repo": "docker-sxa-node",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3898,7 +4138,8 @@
             "owner": "JeffDarchuk",
             "repo": "SxaGlobalFieldValidator",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3913,7 +4154,8 @@
             "owner": "konabos",
             "repo": "SXA.Platform.Assemblies",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "SXA (Sitecore Experience Accelerator)"
@@ -3934,7 +4176,8 @@
             "owner": "sshushliapin",
             "repo": "Sitecore.FakeDb",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -3949,7 +4192,8 @@
             "owner": "valtech",
             "repo": "minq",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Testing"
@@ -3970,7 +4214,8 @@
             "owner": "retohugi",
             "repo": "SitecoreExtension-TokenSet",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Templates"
@@ -3991,7 +4236,8 @@
             "owner": "Sitecore",
             "repo": "Windows-Terminal-DevEx-improvements",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Tooling"
@@ -4012,7 +4258,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.UniversalTracker.MobileSDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "Universal Tracker"
@@ -4033,7 +4280,8 @@
             "owner": "ianjohngraham",
             "repo": "Odata.SitecoreExample",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4048,7 +4296,8 @@
             "owner": "peplau",
             "repo": "SscPublish",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4063,7 +4312,8 @@
             "owner": "MartinMiles",
             "repo": "Sitecore.Endpoints",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4078,7 +4328,8 @@
             "owner": "coreyasmith",
             "repo": "sitecore-web-api-session",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "WebApi"
@@ -4099,7 +4350,8 @@
             "owner": "Sitecore",
             "repo": "xGenerator",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4114,7 +4366,8 @@
             "owner": "jst-cyr",
             "repo": "XConnectTutorial",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4129,7 +4382,8 @@
             "owner": "lowedown",
             "repo": "xConnectHelper",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4144,7 +4398,8 @@
             "owner": "lowedown",
             "repo": "XdbTracker",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4159,7 +4414,8 @@
             "owner": "boro2g",
             "repo": "xConnectDeployer",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4174,7 +4430,8 @@
             "owner": "ianjohngraham",
             "repo": "xconnect-odata-proxy",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4189,7 +4446,8 @@
             "owner": "steviemcg",
             "repo": "SitecoreComms.RTBF",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "xConnect and xDB"
@@ -4210,7 +4468,8 @@
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4225,7 +4484,8 @@
             "owner": "sitecorelabs",
             "repo": "xmcloud-foundation-head",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4240,7 +4500,8 @@
             "owner": "Sitecore",
             "repo": "XM-Cloud-Introduction",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4255,7 +4516,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.XmCloud.PlaySummit",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4270,7 +4532,8 @@
             "owner": "Sitecore",
             "repo": "feaas-nextjs-example",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4285,7 +4548,8 @@
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.XMCloud.Verticals",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4300,7 +4564,8 @@
             "owner": "sitecorelabs",
             "repo": "XmCloudNextJsJssStyleguide",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         },
         {
           "node_type": "item",
@@ -4315,14 +4580,15 @@
             "owner": "jbluemink",
             "repo": "Sitecore-GraphQL-Import",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
         }
       ],
       "title": "XM Cloud"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:41:20.412Z",
+    "last_updated": "2026-08-28T21:13:05.158Z",
     "original_repository_info": {
       "archived": false,
       "id": 247958538,
