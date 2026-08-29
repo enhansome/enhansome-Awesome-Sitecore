@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:42:16Z",
+            "last_commit": "2026-08-29T14:43:10Z",
             "open_issues": 47,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:47.981Z",
+    "last_updated": "2026-08-29T15:11:35.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
