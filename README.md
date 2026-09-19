@@ -95,7 +95,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Language Understanding (LUIS) Samples](https://github.com/Azure-Samples/cognitive-services-language-understanding) ⚠️ Archived - Samples for the Language Understanding Intelligent Service (LUIS).
 * [Sitecore Azure Content](https://github.com/olegburov/Sitecore-Azure-Content) ⚠️ Archived - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 * [Sitecore Azure Scripts](https://github.com/robhabraken/Sitecore-Azure-Scripts) ⭐ 16 | 🐛 0 | 🌐 PowerShell | 📅 2020-12-17 - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
-* [Sitecore Advanced Azure Devops](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) ⭐ 15 | 🐛 0 | 🌐 PowerShell | 📅 2020-01-03 - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
+* [Sitecore Advanced Azure Devops](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) ⭐ 14 | 🐛 0 | 🌐 PowerShell | 📅 2020-01-03 - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
 * [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2016-04-21 - Allow Sitecore Media Library to store and serve from Cloud Storage.
 * [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
 * [Sitecore Diagnostics](https://github.com/BasLijten/SitecoreDiagnostics) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2016-03-11 - Sitecore Diagnostics using Application Insights.
@@ -138,7 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,159 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-09-18 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-09-19 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 6 | 🌐 C# | 📅 2026-08-25 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 14 | 🌐 PowerShell | 📅 2026-09-14 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
@@ -377,8 +377,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Other
 
 * [BLAZOR + SITECORE](https://github.com/GoranHalvarsson/SitecoreBlazor) ⭐ 46 | 🐛 6 | 🌐 CSS | 📅 2023-03-01 - Allows you to run the Sitecore app's client-side, also following the HELIX concept, the clean way.
-* [Sitecore TokenManager](https://github.com/JeffDarchuk/SCTokenManager) ⭐ 11 | 🐛 10 | 🌐 C# | 📅 2022-06-22 - A framework designed to allow any type of content to be dynamically injected into an RTE field.
 * [Sitecore.SharedSource.JohnWest](https://github.com/jammykam/Sitecore.SharedSource.JohnWest) ⭐ 10 | 🐛 0 | 🌐 C# | 📅 2017-09-20 - A collection of code samples of Sitecore prototypes from John West blog posts.
+* [Sitecore TokenManager](https://github.com/JeffDarchuk/SCTokenManager) ⭐ 10 | 🐛 10 | 🌐 C# | 📅 2022-06-22 - A framework designed to allow any type of content to be dynamically injected into an RTE field.
 * [Sitecore Redis Session Provider](https://github.com/boro2g/Sitecore-Redis-Session-Provider) ⚠️ Archived - A Sitecore Redis session provider implementation.
 * [License Expiration Module 2.0](https://github.com/KayeeNL/Sitecore.License.Expiration.Module) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2013-04-29 - Checks the expiration date of the Sitecore license, shows a Content Editor Warning message or/and sends an email to notify when the Sitecore license is about to expire.
 * [Sitecore.SampleMvc](https://github.com/coreyasmith/Sitecore.SampleMvc) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2020-08-12 - MVC versions of the code for the out-of-the-box Sitecore sample site (by default Sitecore comes with a sample site that is built on web forms and XSLT).
@@ -446,7 +446,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Serialization
 
 * [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) ⭐ 269 | 🐛 48 | 🌐 C# | 📅 2024-06-15 - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
-* [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) ⭐ 49 | 🐛 38 | 🌐 C# | 📅 2022-11-19 - A framework for angularjs-based microservice architecture operations.
+* [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) ⭐ 48 | 🐛 38 | 🌐 C# | 📅 2022-11-19 - A framework for angularjs-based microservice architecture operations.
 * [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) ⭐ 33 | 🐛 7 | 🌐 C# | 📅 2022-06-22 - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
 * [Rhino](https://github.com/kamsar/Rhino) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2013-06-14 - An experimental serialization data provider for Sitecore.
 
@@ -545,4 +545,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

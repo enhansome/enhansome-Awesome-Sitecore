@@ -295,7 +295,7 @@
             "open_issues": 0,
             "owner": "JeffDarchuk",
             "repo": "AdvancedSitecoreAzureDevops",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-18T12:41:06Z",
+            "last_commit": "2026-09-19T12:43:12Z",
             "open_issues": 47,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -912,7 +912,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2020-04-10T22:32:05Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "asmagin",
             "repo": "sitecore-packer",
             "stars": 21,
@@ -4069,27 +4069,6 @@
         },
         {
           "node_type": "item",
-          "title": "Sitecore TokenManager",
-          "description": "A framework designed to allow any type of content to be dynamically injected into an RTE field.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Token Manager for Sitecore",
-            "homepage": null,
-            "id": 39743149,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2022-06-22T17:36:35Z",
-            "open_issues": 10,
-            "owner": "JeffDarchuk",
-            "repo": "SCTokenManager",
-            "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:13:05.158Z"
-        },
-        {
-          "node_type": "item",
           "title": "Sitecore.SharedSource.JohnWest",
           "description": "A collection of code samples of Sitecore prototypes from John West blog posts.",
           "children": [],
@@ -4104,6 +4083,27 @@
             "open_issues": 0,
             "owner": "jammykam",
             "repo": "Sitecore.SharedSource.JohnWest",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sitecore TokenManager",
+          "description": "A framework designed to allow any type of content to be dynamically injected into an RTE field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Token Manager for Sitecore",
+            "homepage": null,
+            "id": 39743149,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2022-06-22T17:36:35Z",
+            "open_issues": 10,
+            "owner": "JeffDarchuk",
+            "repo": "SCTokenManager",
             "stars": 10,
             "topics": []
           },
@@ -5075,7 +5075,7 @@
             "open_issues": 38,
             "owner": "JeffDarchuk",
             "repo": "SitecoreSidekick",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:35:35.621Z",
+    "last_updated": "2026-09-19T13:57:55.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
