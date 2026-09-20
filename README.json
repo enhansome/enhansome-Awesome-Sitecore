@@ -752,7 +752,7 @@
             "open_issues": 16,
             "owner": "StefanScherer",
             "repo": "windows-docker-machine",
-            "stars": 1159,
+            "stars": 1160,
             "topics": [
               "docker-machine",
               "lcow",
@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-19T12:43:12Z",
+            "last_commit": "2026-09-20T12:41:16Z",
             "open_issues": 47,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -1862,8 +1862,8 @@
             "id": 388399985,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T12:21:16Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-20T11:19:42Z",
+            "open_issues": 66,
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 36,
@@ -1890,8 +1890,8 @@
             "id": 388399985,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T12:21:16Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-20T11:19:42Z",
+            "open_issues": 66,
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 36,
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:57:55.407Z",
+    "last_updated": "2026-09-20T14:18:35.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
