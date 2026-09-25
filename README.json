@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-09-24T14:45:40Z",
+            "last_commit": "2026-09-25T14:46:29Z",
             "open_issues": 47,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -1385,8 +1385,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T11:32:57Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-25T11:36:56Z",
+            "open_issues": 18,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -1407,7 +1407,7 @@
             "language": "PowerShell",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T08:30:39Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 30,
@@ -3088,7 +3088,7 @@
             "open_issues": 30,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "angular",
               "graphql",
@@ -4630,7 +4630,7 @@
             "open_issues": 30,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "angular",
               "graphql",
@@ -4658,8 +4658,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T11:32:57Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-25T11:36:56Z",
+            "open_issues": 18,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -4679,7 +4679,7 @@
             "id": 953911038,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T04:58:43Z",
+            "last_commit": "2026-09-25T06:33:43Z",
             "open_issues": 25,
             "owner": "Sitecore",
             "repo": "marketplace-sdk",
@@ -6091,7 +6091,7 @@
             "open_issues": 30,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "angular",
               "graphql",
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:24:05.594Z",
+    "last_updated": "2026-09-25T15:26:36.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
@@ -6275,7 +6275,7 @@
       "open_issues": 5,
       "owner": "MartinMiles",
       "repo": "awesome-sitecore",
-      "stars": 85,
+      "stars": 84,
       "topics": [
         "awesome",
         "awesome-list"
