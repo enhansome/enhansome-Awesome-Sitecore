@@ -399,7 +399,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Publishing
 
-* [Scheduled Publishing](https://github.com/HedgehogDevelopment/SCScheduledPublishing) ⭐ 8 | 🐛 10 | 🌐 C# | 📅 2023-11-07 - Gives the content editor the option to delay the publishing of an item for a future point in time.
+* [Scheduled Publishing](https://github.com/HedgehogDevelopment/SCScheduledPublishing) ⭐ 8 | 🐛 11 | 🌐 C# | 📅 2023-11-07 - Gives the content editor the option to delay the publishing of an item for a future point in time.
 * [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2019-06-11 - Allows you to monitor the publishing queue on the Sitecore Publishing CM Server, see their current status, and cancel publishing jobs if required (ie. time queued, time publish job started, duration in the queue, number of items published, average time to publish an item, all messages from the published job).
 * [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.
 * [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2024-04-30 - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto-install the Publishing Service & auto-install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
