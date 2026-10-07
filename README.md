@@ -138,9 +138,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,160 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-10-06 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-10-07 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 6 | 🌐 C# | 📅 2026-08-25 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
-* [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 14 | 🌐 PowerShell | 📅 2026-09-14 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+* [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 15 | 🌐 PowerShell | 📅 2026-09-14 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 * [Container Deployment](https://github.com/Sitecore/container-deployment) ⭐ 32 | 🐛 7 | 🌐 PowerShell | 📅 2026-09-09 - Provides examples on how to deploy Sitecore containers using various methods.
 * [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) ⭐ 28 | 🐛 7 | 🌐 PowerShell | 📅 2026-09-22 - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
@@ -174,8 +174,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-06 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
-* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 30 | 🐛 8 | 🌐 PowerShell | 📅 2026-10-05 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-07 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 30 | 🐛 5 | 🌐 PowerShell | 📅 2026-10-07 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -238,7 +238,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) ⭐ 6 | 🐛 6 | 🌐 C# | 📅 2021-09-28 - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items, and adding new functionality such as the Edit Form, Go to Item button, and the Field Gutter.
 * [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2017-03-01 - An environment-specific styling (and text) on the login screen and header ribbon for Sitecore.
 * [Browse Command](https://github.com/ParTech/Browse-Command) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2014-03-11 - Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so the given module will do the same but without entering Preview mode.
-* [Sitecore-TinyMCERTE](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-10 - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
+* [Sitecore-TinyMCERTE](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-07 - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 * [CopyPageToVersions](https://github.com/merkle-open/SitecoreCopyPageToVersions) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2019-04-30 - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
 * [Expand Descendants Command](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2014-03-11 - The module adds a command that allows the user to expand all descendants of an item from the Sitecore content tree.
 * [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2014-07-19 - Prevents Sitecore users from bypassing insert options.
@@ -419,8 +419,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 275 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-08 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-06 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
-* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-28 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-07 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-07 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 12 | 🐛 17 | 🌐 C# | 📅 2026-09-29 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
 ## Security
@@ -545,4 +545,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
