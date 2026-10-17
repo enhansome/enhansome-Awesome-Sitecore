@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-10-16T14:32:31Z",
+            "last_commit": "2026-10-17T12:46:54Z",
             "open_issues": 47,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -1410,7 +1410,7 @@
             "open_issues": 8,
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -2002,8 +2002,8 @@
             "id": 217117194,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-15T23:06:39Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-17T09:34:02Z",
+            "open_issues": 19,
             "owner": "steviemcg",
             "repo": "scuguk",
             "stars": 5,
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:58:06.214Z",
+    "last_updated": "2026-10-17T13:51:42.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
