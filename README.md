@@ -138,7 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,161 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-10-21 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 183 | 🐛 47 | 🌐 PowerShell | 📅 2026-10-22 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 6 | 🌐 C# | 📅 2026-08-25 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 16 | 🌐 PowerShell | 📅 2026-09-14 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
@@ -174,8 +174,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-21 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
-* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 31 | 🐛 11 | 🌐 PowerShell | 📅 2026-10-21 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-21 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 31 | 🐛 11 | 🌐 PowerShell | 📅 2026-10-22 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -206,14 +206,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) ⭐ 73 | 🐛 42 | 🌐 CSS | 📅 2026-01-15 - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 * [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) ⚠️ Archived - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.
-* [Sitecore Developer Portal](https://github.com/Sitecore/developer-portal) ⭐ 37 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-13 - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
-* [Developer Portal](https://github.com/Sitecore/developer-portal) ⭐ 37 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-13 - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
+* [Sitecore Developer Portal](https://github.com/Sitecore/developer-portal) ⭐ 37 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-22 - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
+* [Developer Portal](https://github.com/Sitecore/developer-portal) ⭐ 37 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-22 - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
   published to a CDN.
 * [Sitecore DXP Demo](https://github.com/Sitecore/Sitecore.Demo.Edge) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 * [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) ⚠️ Archived - Demo assets with external contributors and partners.
 * [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) ⭐ 24 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18 - Play Summit demo featuring XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
 * [Sitecore.Demo.Group](https://github.com/Sitecore/Sitecore.Demo.Group) ⚠️ Archived - Habitat Group Demo site - a developer example of a Habitat Based Demo.
-* [Sitecore User Group UK](https://github.com/steviemcg/scuguk) ⭐ 5 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-21 - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
+* [Sitecore User Group UK](https://github.com/steviemcg/scuguk) ⭐ 5 | 🐛 19 | 🌐 TypeScript | 📅 2026-10-22 - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
 * [Verticals](https://github.com/Sitecore/Sitecore.Demo.XMCloud.Verticals) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-25 - A headless multi-site solution focused on XM Cloud content and site management capabilities. Includes easily customizable sample sites for select industries.
 * [Sitecore.Demo.Headless](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
 * [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
@@ -296,7 +296,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Headless
 
-* [Angular JSS starter kit for XM Cloud](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) ⭐ 275 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-21 - Sitecore JSS Angular Starter Kit App for XM Cloud.
+* [Angular JSS starter kit for XM Cloud](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) ⭐ 275 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-21 - Sitecore JSS Angular Starter Kit App for XM Cloud.
 * [Sample](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) ⭐ 29 | 🐛 2 | 🌐 JavaScript | 📅 2025-12-13 - A headless sample TODO
 
 ## Helix
@@ -418,9 +418,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## SDK
 
-* [JSS](https://github.com/Sitecore/jss) ⭐ 275 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-21 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-21 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
-* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-21 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
+* [JSS](https://github.com/Sitecore/jss) ⭐ 275 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-21 - An official repo of Sitecore JavaScript Services SDK.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 37 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-21 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-22 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 12 | 🐛 17 | 🌐 C# | 📅 2026-09-29 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
 ## Security
@@ -436,7 +436,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SEO
 
 * [301 Redirect Module](https://github.com/thecadams/301RedirectModule) ⭐ 31 | 🐛 43 | 🌐 HTML | 📅 2024-02-27 - An improved version of the Sitecore 301 redirect module.
-* [URL Rewrite](https://github.com/iamandycohen/UrlRewrite) ⭐ 22 | 🐛 25 | 🌐 C# | 📅 2022-03-22 - A site-specific version of the Redirect / Rewrite module.
+* [URL Rewrite](https://github.com/iamandycohen/UrlRewrite) ⭐ 22 | 🐛 24 | 🌐 C# | 📅 2022-03-22 - A site-specific version of the Redirect / Rewrite module.
 * [SitecoreSitemapXML](https://github.com/JimmieOverby/SitecoreSitemapXML) ⭐ 9 | 🐛 12 | 🌐 C# | 📅 2020-07-27 - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
 * [Sitemap Generator](https://github.com/jermdavis/SitemapGenerator) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2022-02-01 - An example Sitecore / FakeDB / TDS / Cloud Build project for sitemap generation.
 * [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2015-03-02 - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
@@ -534,7 +534,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## XM Cloud
 
-* [Node XM Cloud Proxy](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) ⭐ 275 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-21 - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
+* [Node XM Cloud Proxy](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) ⭐ 275 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-21 - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
 * [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head) ⚠️ Archived - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
 * [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) ⭐ 52 | 🐛 16 | 🌐 CSS | 📅 2026-10-13 - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 * [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) ⭐ 24 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18 - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
@@ -545,4 +545,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
