@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-09T19:50:23Z",
+            "last_commit": "2026-11-10T17:53:41Z",
             "open_issues": 48,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -1385,8 +1385,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:34:40Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-10T15:14:25Z",
+            "open_issues": 18,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -1845,7 +1845,7 @@
             "open_issues": 1,
             "owner": "Sitecore",
             "repo": "Sitecore.HabitatHome.Utilities",
-            "stars": 38,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -4658,8 +4658,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:34:40Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-10T15:14:25Z",
+            "open_issues": 18,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:57:44.169Z",
+    "last_updated": "2026-11-10T18:05:32.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
