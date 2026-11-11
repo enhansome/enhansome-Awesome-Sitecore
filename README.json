@@ -295,7 +295,7 @@
             "open_issues": 0,
             "owner": "JeffDarchuk",
             "repo": "AdvancedSitecoreAzureDevops",
-            "stars": 14,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -316,33 +316,8 @@
             "open_issues": 0,
             "owner": "jammykam",
             "repo": "Sitecore-CloudMediaLibrary",
-            "stars": 5,
+            "stars": 4,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:13:05.158Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Sitecore Publishing Service Azure Templates",
-          "description": "Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "☁ Azure Resource Manager (ARM) templates to install the @Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
-            "homepage": "https://www.coreysmith.co/sitecore-publishing-service-deploy-to-azure-with-arm-templates/",
-            "id": 145332574,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2020-08-12T16:47:17Z",
-            "open_issues": 0,
-            "owner": "coreyasmith",
-            "repo": "sitecore-publishing-service-azure-templates",
-            "stars": 3,
-            "topics": [
-              "arm-templates",
-              "publishing-service",
-              "sitecore"
-            ]
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
         },
@@ -369,6 +344,31 @@
         },
         {
           "node_type": "item",
+          "title": "Sitecore Publishing Service Azure Templates",
+          "description": "Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "☁ Azure Resource Manager (ARM) templates to install the @Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
+            "homepage": "https://www.coreysmith.co/sitecore-publishing-service-deploy-to-azure-with-arm-templates/",
+            "id": 145332574,
+            "language": "PowerShell",
+            "license": null,
+            "last_commit": "2020-08-12T16:47:17Z",
+            "open_issues": 0,
+            "owner": "coreyasmith",
+            "repo": "sitecore-publishing-service-azure-templates",
+            "stars": 2,
+            "topics": [
+              "arm-templates",
+              "publishing-service",
+              "sitecore"
+            ]
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
+        },
+        {
+          "node_type": "item",
           "title": "Application Insights Annotations",
           "description": "Creates App Insinghts annotations.",
           "children": [],
@@ -383,7 +383,7 @@
             "open_issues": 1,
             "owner": "BasLijten",
             "repo": "sitecore-application-insights-annotations",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -512,29 +512,6 @@
         },
         {
           "node_type": "item",
-          "title": "Dictionary Flush Partial Cache",
-          "description": "Flashes Partial HTML Cache on changes to Sitecore Dictionary items.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sitecore Dictionary Flush Partial Cache",
-            "homepage": null,
-            "id": 410819770,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2021-09-27T09:31:30Z",
-            "open_issues": 0,
-            "owner": "jbluemink",
-            "repo": "DictionaryFlushPartialCache",
-            "stars": 1,
-            "topics": [
-              "sitecore"
-            ]
-          },
-          "first_seen": "2026-08-28T21:13:05.158Z"
-        },
-        {
-          "node_type": "item",
           "title": "Cache Tuner",
           "description": "The module is an implementation of the rules given in the Sitecore Caching guide.",
           "children": [],
@@ -593,6 +570,29 @@
             "repo": "ManualHtmlCacheClearer",
             "stars": 0,
             "topics": []
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dictionary Flush Partial Cache",
+          "description": "Flashes Partial HTML Cache on changes to Sitecore Dictionary items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sitecore Dictionary Flush Partial Cache",
+            "homepage": null,
+            "id": 410819770,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2021-09-27T09:31:30Z",
+            "open_issues": 0,
+            "owner": "jbluemink",
+            "repo": "DictionaryFlushPartialCache",
+            "stars": 0,
+            "topics": [
+              "sitecore"
+            ]
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
         }
@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:53:41Z",
+            "last_commit": "2026-11-11T17:54:09Z",
             "open_issues": 48,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -850,7 +850,7 @@
             "open_issues": 0,
             "owner": "Sitecore",
             "repo": "MVP-Site",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -915,7 +915,7 @@
             "open_issues": 2,
             "owner": "asmagin",
             "repo": "sitecore-packer",
-            "stars": 21,
+            "stars": 20,
             "topics": [
               "chef",
               "packer",
@@ -1385,8 +1385,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:14:25Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-11T17:20:07Z",
+            "open_issues": 19,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -1756,7 +1756,7 @@
             "open_issues": 46,
             "owner": "Sitecore",
             "repo": "Habitat",
-            "stars": 403,
+            "stars": 401,
             "topics": [
               "architecture",
               "demo",
@@ -1803,7 +1803,7 @@
             "open_issues": 42,
             "owner": "Sitecore",
             "repo": "Helix.Examples",
-            "stars": 73,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -1824,7 +1824,7 @@
             "open_issues": 0,
             "owner": "Sitecore",
             "repo": "MVP-Site",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -1863,7 +1863,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T09:13:30Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 37,
@@ -1891,7 +1891,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T09:13:30Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 37,
@@ -1922,7 +1922,7 @@
             "open_issues": 0,
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -2108,7 +2108,7 @@
             "open_issues": 0,
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -2135,7 +2135,7 @@
             "open_issues": 0,
             "owner": "Kasaku",
             "repo": "Sitecore.Sweep",
-            "stars": 11,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -2643,7 +2643,7 @@
             "open_issues": 32,
             "owner": "bartverdonck",
             "repo": "Sitecore-Forms-Extensions",
-            "stars": 60,
+            "stars": 59,
             "topics": [
               "blogpost",
               "exm",
@@ -2907,7 +2907,7 @@
             "open_issues": 2,
             "owner": "Sitecore",
             "repo": "headless-examples",
-            "stars": 9,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -3088,7 +3088,7 @@
             "open_issues": 28,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275,
+            "stars": 274,
             "topics": [
               "angular",
               "graphql",
@@ -3155,7 +3155,7 @@
             "open_issues": 3,
             "owner": "muso31",
             "repo": "Helixbase",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -3176,7 +3176,7 @@
             "open_issues": 42,
             "owner": "Sitecore",
             "repo": "Helix.Examples",
-            "stars": 73,
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -3197,7 +3197,7 @@
             "open_issues": 20,
             "owner": "richardszalay",
             "repo": "helix-publishing-pipeline",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -3218,7 +3218,7 @@
             "open_issues": 1,
             "owner": "ava-innersource",
             "repo": "SitecoreFoundation",
-            "stars": 46,
+            "stars": 45,
             "topics": [
               "def",
               "sitecore",
@@ -3243,7 +3243,7 @@
             "open_issues": 1,
             "owner": "ava-innersource",
             "repo": "SitecoreFoundation",
-            "stars": 46,
+            "stars": 45,
             "topics": [
               "def",
               "sitecore",
@@ -3268,7 +3268,7 @@
             "open_issues": 0,
             "owner": "Sitecore",
             "repo": "Sitecore.Demo.Edge",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -3943,7 +3943,7 @@
             "open_issues": 83,
             "owner": "mikeedwards83",
             "repo": "Glass.Mapper",
-            "stars": 126,
+            "stars": 125,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -4083,7 +4083,7 @@
             "open_issues": 0,
             "owner": "jammykam",
             "repo": "Sitecore.SharedSource.JohnWest",
-            "stars": 10,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -4104,7 +4104,7 @@
             "open_issues": 10,
             "owner": "JeffDarchuk",
             "repo": "SCTokenManager",
-            "stars": 10,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -4408,31 +4408,6 @@
         },
         {
           "node_type": "item",
-          "title": "Publishing Service Azure Templates",
-          "description": "ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "☁ Azure Resource Manager (ARM) templates to install the @Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
-            "homepage": "https://www.coreysmith.co/sitecore-publishing-service-deploy-to-azure-with-arm-templates/",
-            "id": 145332574,
-            "language": "PowerShell",
-            "license": null,
-            "last_commit": "2020-08-12T16:47:17Z",
-            "open_issues": 0,
-            "owner": "coreyasmith",
-            "repo": "sitecore-publishing-service-azure-templates",
-            "stars": 3,
-            "topics": [
-              "arm-templates",
-              "publishing-service",
-              "sitecore"
-            ]
-          },
-          "first_seen": "2026-08-28T21:13:05.158Z"
-        },
-        {
-          "node_type": "item",
           "title": "SIF scripts to install Publishing Service",
           "description": "Powershell scripts that both use the Sitecore Install Framework (SIF) to auto-install the Publishing Service & auto-install the Publishing Module on top of the ContentManagement instance or StandAlone instance.",
           "children": [],
@@ -4449,6 +4424,31 @@
             "repo": "sitecore-sif-autoinstall-publishingservice",
             "stars": 3,
             "topics": []
+          },
+          "first_seen": "2026-08-28T21:13:05.158Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Publishing Service Azure Templates",
+          "description": "ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "☁ Azure Resource Manager (ARM) templates to install the @Sitecore Publishing Service in a Sitecore Azure PaaS environment.",
+            "homepage": "https://www.coreysmith.co/sitecore-publishing-service-deploy-to-azure-with-arm-templates/",
+            "id": 145332574,
+            "language": "PowerShell",
+            "license": null,
+            "last_commit": "2020-08-12T16:47:17Z",
+            "open_issues": 0,
+            "owner": "coreyasmith",
+            "repo": "sitecore-publishing-service-azure-templates",
+            "stars": 2,
+            "topics": [
+              "arm-templates",
+              "publishing-service",
+              "sitecore"
+            ]
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
         },
@@ -4630,7 +4630,7 @@
             "open_issues": 28,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275,
+            "stars": 274,
             "topics": [
               "angular",
               "graphql",
@@ -4658,8 +4658,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:14:25Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-11T17:20:07Z",
+            "open_issues": 19,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 37,
@@ -4679,7 +4679,7 @@
             "id": 953911038,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T09:34:34Z",
+            "last_commit": "2026-11-11T03:07:17Z",
             "open_issues": 22,
             "owner": "Sitecore",
             "repo": "marketplace-sdk",
@@ -5980,7 +5980,7 @@
             "open_issues": 0,
             "owner": "lowedown",
             "repo": "xConnectHelper",
-            "stars": 23,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -6001,7 +6001,7 @@
             "open_issues": 0,
             "owner": "lowedown",
             "repo": "XdbTracker",
-            "stars": 5,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:05.158Z"
@@ -6091,7 +6091,7 @@
             "open_issues": 28,
             "owner": "Sitecore",
             "repo": "jss",
-            "stars": 275,
+            "stars": 274,
             "topics": [
               "angular",
               "graphql",
@@ -6144,7 +6144,7 @@
             "open_issues": 17,
             "owner": "Sitecore",
             "repo": "XM-Cloud-Introduction",
-            "stars": 52,
+            "stars": 51,
             "topics": [
               "netcore",
               "nextjs",
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:05:32.935Z",
+    "last_updated": "2026-11-11T17:59:30.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
@@ -6275,7 +6275,7 @@
       "open_issues": 5,
       "owner": "MartinMiles",
       "repo": "awesome-sitecore",
-      "stars": 85,
+      "stars": 84,
       "topics": [
         "awesome",
         "awesome-list"
