@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-14T15:44:48Z",
+            "last_commit": "2026-11-15T15:45:50Z",
             "open_issues": 48,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -4680,7 +4680,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-11T03:07:17Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "Sitecore",
             "repo": "marketplace-sdk",
             "stars": 18,
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:40:26.866Z",
+    "last_updated": "2026-11-15T17:20:45.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
