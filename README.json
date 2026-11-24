@@ -780,7 +780,7 @@
             "id": 125524643,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-11-23T21:45:33Z",
+            "last_commit": "2026-11-24T19:48:25Z",
             "open_issues": 48,
             "owner": "Sitecore",
             "repo": "docker-images",
@@ -1385,8 +1385,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T16:36:59Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-24T15:48:56Z",
+            "open_issues": 22,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 38,
@@ -1697,7 +1697,7 @@
             "open_issues": 0,
             "owner": "KayeeNL",
             "repo": "Sitecore.DataExchange.Gutters",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "dataexchangeframework",
               "sitecore",
@@ -4658,8 +4658,8 @@
             "id": 905809478,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T16:36:59Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-24T15:48:56Z",
+            "open_issues": 22,
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 38,
@@ -6263,7 +6263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:10:16.008Z",
+    "last_updated": "2026-11-24T20:45:15.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome lists of useful Sitecore tools, extensions and GitHub repositories ",
