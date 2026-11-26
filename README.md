@@ -138,7 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,161 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 181 | 🐛 48 | 🌐 PowerShell | 📅 2026-11-25 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 181 | 🐛 48 | 🌐 PowerShell | 📅 2026-11-26 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 83 | 🐛 6 | 🌐 C# | 📅 2026-08-25 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 14 | 🌐 PowerShell | 📅 2026-11-05 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
@@ -174,7 +174,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 38 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-25 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 38 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-26 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
 * [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 31 | 🐛 6 | 🌐 PowerShell | 📅 2026-11-25 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
@@ -419,7 +419,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 274 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-23 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 38 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-25 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 38 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-26 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
 * [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-25 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 12 | 🐛 17 | 🌐 C# | 📅 2026-09-29 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
@@ -524,7 +524,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## xConnect and xDB
 
-* [Experience Generator](https://github.com/Sitecore/xGenerator) ⭐ 37 | 🐛 17 | 🌐 C# | 📅 2022-12-08 - Generates "realistically looking" traffic for Sitecore sites with configurable patterns.
+* [Experience Generator](https://github.com/Sitecore/xGenerator) ⭐ 37 | 🐛 16 | 🌐 C# | 📅 2022-12-08 - Generates "realistically looking" traffic for Sitecore sites with configurable patterns.
 * [XConnectTutorial](https://github.com/jst-cyr/XConnectTutorial) ⭐ 25 | 🐛 0 | 🌐 C# | 📅 2021-11-02 - A tutorial repository based on the Sitecore documentation to walk users through common interactions with the xConnect APIs based on code from Martina Welander in the "Getting Started" tutorials and other great documentation.
 * [XConnectHelper](https://github.com/lowedown/xConnectHelper) ⭐ 22 | 🐛 0 | 🌐 C# | 📅 2025-11-28 - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on the last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 * [XdbTracker](https://github.com/lowedown/XdbTracker) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2025-11-28 - API and js-function to allow client-side triggering of Sitecore events/goals and outcomes.
@@ -545,4 +545,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
